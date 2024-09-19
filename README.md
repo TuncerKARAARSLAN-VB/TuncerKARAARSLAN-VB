@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGinomQeqwuCA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726588874154?e=1732147200&v=beta&t=-dzpQkzNV-kGrGXRYF_aWUiW_5hFLTnvtlbD2dsNnSE"></img>
+
 <h1 align="center">Hi 👋, I'm Tuncer KARAARSLAN</h1>
 <h3 align="center">Microsoft Technologies & .NET Authorized Partner - Software Solution Architect</h3>
 
