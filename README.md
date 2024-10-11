@@ -72,7 +72,7 @@ I am passionate about exploring new partnerships that push the boundaries of tec
 ---
 
 ## Mobile Book Sharing Application: KIPU  
-**Almanya Özel Şirket** · Contract  
+**Germany Private Company** · Contract  
 **Nov 2014 - Present** (10 years)  
 *Hybrid*  
 
@@ -141,7 +141,7 @@ I am passionate about exploring new partnerships that push the boundaries of tec
 ---
 
 ## Technology & Business Development Engineer  
-**Siskon Yazılım & Otomasyon** · Full-time  
+**Siskon Software & Automation** · Full-time  
 **May 2012 - Jun 2017** (5 years 2 months)  
 
 ### Responsibilities:
@@ -156,7 +156,7 @@ I am passionate about exploring new partnerships that push the boundaries of tec
 
 **Evoria** · Tam zamanlı  
 **Ara 2011 - May 2012 · 6 ay**  
-**Software Architect, Consultant, Coordinator · Ofisten**  
+**Software Architect, Consultant, Coordinator · At the Office**  
 
 ## Development of an E-Commerce Portal with Mobile and Web Technologies: Shopping System Development
 
@@ -186,9 +186,9 @@ This experience reinforced my commitment to delivering customer-centric and inno
 
 # Warehouse Management System Development
 
-**Çırağan Palace Kempinski Istanbul** · Sözleşmeli  
+**Ciragan Palace Kempinski Istanbul** · Contracted  
 **Tem 2011 - Ara 2011 · 6 ay**  
-**Consultant · Ofisten**  
+**Consultant · At the Office**  
 
 I developed an integrated warehouse and operations management system with IBM Maximo. This project involved managing warehouse assets, recording assets in different locations, and establishing product hierarchy relationships between assets and warehouse products. The system not only kept track of warehouse assets but also managed maintenance and repair orders.
 
@@ -243,7 +243,7 @@ The most important feature of the project is that it includes the concept of 'mu
 
 # Energy Asset Investment and Asset Maintenance, Repair and Management with IBM Maximo
 
-**Company:** Lider Elektrik Dağıtım Şirketi  
+**Company:** Lider Electricity Distribution Company 
 **Type:** Contract  
 **Duration:** Sep 2010 - Dec 2010 (4 months)  
 **Location:** Ankara, Turkey (Hybrid)
@@ -308,7 +308,7 @@ As a result, the automation system developed has increased the municipality's op
 ---
 
 ## Development of CRM, Field Management, and Activity Planning Software
-**TETAŞ İç ve Dış Ticaret A.Ş.**  
+**TETAŞ Domestic and Foreign Trade Inc.**  
 *Haz 1999 - Oca 2002 · 2 yıl 8 ay*  
 **Role:** N/A
 
