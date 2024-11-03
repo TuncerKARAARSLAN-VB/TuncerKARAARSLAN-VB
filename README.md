@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US](https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US)
 
+- [📄 For the trainings I provide in Turkish and their contents](https://github.com/TuncerKARAARSLAN-VB/training-contents)
+
 # Partnership Opportunities: Let's Innovate Together
 
 As a seasoned software architect and developer with over 25 years of experience, I am open to various partnership ideas. I invite you to explore collaboration opportunities with me as your technological partner in the development, management, and multifaceted aspects of new technologies. Please feel free to reach out to me with your proposals under strict confidentiality.
