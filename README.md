@@ -41,11 +41,13 @@ I am passionate about exploring new partnerships that push the boundaries of tec
 # My Work Experiences and Journey, My Life 
 
 ## CEO, Founder  
+
 **Vebende Yazılım Tekstil Üretim A.Ş.** · Self-employed  
 **Oct 2022 - Present** (2 years 1 month)  
 *Izmir, Turkey · Hybrid*  
 
 ### Responsibilities:
+
 - **Development of Financial Decision Support Systems and Artificial Intelligence Applications**  
   Our company develops Financial Decision Support Systems (DSS) that enable organizations to make data-driven financial decisions. By integrating artificial intelligence (AI), these systems enhance decision-making through real-time data analysis, transforming raw financial data into meaningful insights for strategic planning. Machine learning algorithms empower the DSS to learn from historical data, allowing for future projections in asset management, budgeting, and investment strategies.
 
@@ -56,6 +58,7 @@ I am passionate about exploring new partnerships that push the boundaries of tec
   Our software architects design scalable systems that balance functionality, performance, and security. Consulting services provide expert guidance in software development and technology adoption, backed by comprehensive software and cybersecurity agreements.
 
 ### Skills:
+
 - E-commerce SEO
 - Fintech
 - Cybersecurity
@@ -104,17 +107,20 @@ In my previous role as the Head of Software Training at one of Turkey's largest 
 ---
 
 ## Mobile Book Sharing Application: KIPU  
+
 **Germany Private Company** · Contract  
 **Nov 2014 - Present** (10 years)  
 *Hybrid*  
 
 ### Responsibilities:
+
 - Played a crucial role in the development of iOS, Android, and backend systems as a software architect and technology consultant.
 - Developed a platform for sharing books using Objective-C for iOS and Native Java for Android, with a scalable backend architecture using Node.js and C#.
 - Enabled users to share books easily and integrated courier services for efficient book pickups.
 - Utilized MongoDB for effective data management.
 
 ### Skills:
+
 - MongoDB
 - Node.js
 - Service-Oriented Architecture (SOA)
@@ -122,16 +128,19 @@ In my previous role as the Head of Software Training at one of Turkey's largest 
 ---
 
 ## Development of E-Commerce Operations Software  
+
 **Mela Group** · Full-time  
 **May 2020 - Oct 2022** (2 years 6 months)  
 *Izmir, Turkey · Office*  
 
 ### Responsibilities:
+
 - Enabled seamless integration of ERP systems with online sales channels like Amazon, Trendyol, and Hepsiburada for effective process management.
 - Developed warehouse management and online store stock update systems to track inventory and facilitate quick responses to customer demands.
 - Automated order packaging, shipping management, and inventory accuracy, enhancing operational efficiency.
 
 ### Skills:
+
 - E-commerce SEO
 - Problem Solving
 - E-commerce
@@ -140,16 +149,19 @@ In my previous role as the Head of Software Training at one of Turkey's largest 
 ---
 
 ## ARGE Team Lead, Software and Headend Team Lead  
+
 **LUNA Elektrik Elektronik San. Tic. A.Ş.** · Full-time  
 **Feb 2018 - Jan 2020** (2 years)  
 *Izmir, Turkey · Office*  
 
 ### Responsibilities:
+
 - Developed energy management information systems for electricity distribution networks and smart electricity meters.
 - Integrated online payment systems in prepayment systems for African and Middle Eastern countries.
 - Focused on cybersecurity layers and data management for large datasets generated daily.
 
 ### Skills:
+
 - Problem Solving
 - Employee Training
 - Consulting
@@ -158,30 +170,36 @@ In my previous role as the Head of Software Training at one of Turkey's largest 
 ---
 
 ## Next Generation LoRa Devices and Asset Management System  
+
 **Trio Mobil** · Contract  
 **Jul 2017 - Dec 2017** (6 months)  
 *Istanbul, Turkey · Remote*  
 
 ### Responsibilities:
+
 - Developed a map-enabled asset management system using LoRa technology for real-time asset tracking and management.
 - Utilized Node.js and modern JavaScript technologies to create a fast, scalable application.
 - Enhanced asset security and productivity through innovative solutions.
 
 ### Skills:
+
 - N/A
 
 ---
 
 ## Technology & Business Development Engineer  
+
 **Siskon Software & Automation** · Full-time  
 **May 2012 - Jun 2017** (5 years 2 months)  
 
 ### Responsibilities:
+
 - Developed customized projects for Japan Tobacco International (JTI) factories.
 - Created high-performance iPhone and iPad applications using Objective-C.
 - Provided advanced .NET backend solutions and client-side development to enhance user interaction.
 
 ### Skills:
+
 - Problem Solving
 
 # Development of E-Commerce Shopping System - Evoria
@@ -205,6 +223,7 @@ This experience reinforced my commitment to delivering customer-centric and inno
 ---
 
 ## Skills
+
 - Google Analytics
 - Google Webmaster Tools
 - Problem Solving
@@ -231,6 +250,7 @@ Additionally, task management improved coordination between operational centers,
 ---
 
 ## Skills
+
 - Problem Solving
 
 # Microsoft Software Technologies Department Head
@@ -243,6 +263,7 @@ Additionally, task management improved coordination between operational centers,
 Bilgeadam Information Technology Academy is one of the largest educational institutions in Turkey and an authorized Microsoft training center. It stands as the largest training institution in Europe and is recognized globally as one of the most significant CPLS (Certified Partner for Learning Solutions) centers. During the early 2000s, the training programs could last up to three years, depending on the type of education. Today, Bilgeadam offers individual training across various locations, including Silicon Valley in the U.S., and provides outsourced human resources solutions to meet the IT needs of major corporations in Turkey. With its expertise and scale, it has become the most competent and undisputed leader in the industry.
 
 In my role at Bilgeadam, I was responsible for:
+
 - Development of training sales strategies
 - Overseeing and improving training quality
 - Creating educational materials
@@ -251,6 +272,7 @@ In my role at Bilgeadam, I was responsible for:
 I also ensured that personnel continuously developed their skills in emerging technologies and organized seminars to maintain international standards of training excellence.
 
 Between 2002 and 2011, I held three key positions at Bilgeadam:
+
 1. **Trainer**
 2. **Head of Software Training**
 3. **Oversight of Outsourced Personnel for Key Clients**
@@ -291,6 +313,7 @@ The rapid change and transformation in the energy sector has made it imperative 
 As a result, this project on digitization and management of energy assets has not only improved the operational efficiency of the company but also raised the standards of the industry. Taking part in this process has been a valuable experience and professional development opportunity for me.
 
 ## TavEarth Map-Supported Area Management System
+
 **TAV Airports**  
 *Haz 2008 - May 2009 · 1 yıl*  
 **Role:** Consultant, Development
@@ -304,6 +327,7 @@ Thanks to the expertise gained from this project, I became the sole certified co
 ---
 
 ## ISKABIS Infrastructure Water Network Management System
+
 **ISKI**  
 *Nis 2006 - Nis 2007 · 1 yıl 1 ay*  
 **Role:** Consultant & Trainer
@@ -321,6 +345,7 @@ By adopting a proactive approach, water authorities can respond quickly to issue
 ---
 
 ## The Future Municipality: The Entire City Can Be Monitored and Managed Online
+
 **Borat Sayısal ve Geleceğim Belediye Çözümleri**  
 *Oca 2004 - Kas 2005 · 1 yıl 11 ay*  
 **Role:** Yazılım Mimarı, Takım Lideri
@@ -340,6 +365,7 @@ As a result, the automation system developed has increased the municipality's op
 ---
 
 ## Development of CRM, Field Management, and Activity Planning Software
+
 **TETAŞ Domestic and Foreign Trade Inc.**  
 *Haz 1999 - Oca 2002 · 2 yıl 8 ay*  
 **Role:** N/A
