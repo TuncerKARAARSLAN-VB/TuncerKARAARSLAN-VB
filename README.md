@@ -21,44 +21,6 @@
 
 As a seasoned software architect and developer with over 25 years of experience, I am open to various partnership ideas. I invite you to explore collaboration opportunities with me as your technological partner in the development, management, and multifaceted aspects of new technologies. Please feel free to reach out to me with your proposals under strict confidentiality.
 
-
-
-## "Kubernetes: From Zero to Mastery" Training
-
-The **"Kubernetes: From Zero to Mastery"** training delivered to **SBM Turkey (Insurance Information and Monitoring Center)** was a comprehensive and highly interactive program that spanned 12 days. Throughout the training, participants engaged in hands-on activities based on real-world scenarios, enabling them to learn the Kubernetes ecosystem from beginner to advanced levels with a practical, hands-on approach.
-
-**Training Topics Covered:**
-
-1. **Introduction and Core Concepts**  
-2. **Kubernetes Components**  
-3. **Networking and Service Management**  
-4. **Persistent Storage and Volume Management**  
-5. **Kubernetes Security**  
-6. **Advanced Topics**  
-7. **Monitoring, Logging, and Alerting**  
-8. **Application Scaling with Kubernetes**  
-
-**Training Approach:**
-
-This training was structured to combine theoretical lessons with immediate hands-on (practical) work. Every participant had the opportunity to directly experience Kubernetes through real-world scenarios. The interactive, project-based approach allowed participants to actively apply each concept as they learned, making the training both engaging and effective.
-
-**Training Outcomes:**
-
-Through this training, **SBM Turkey** gained the following competencies:
-
-- Mastering container orchestration with Kubernetes to achieve high availability and scalability.
-- Applying advanced security and performance optimizations in Kubernetes cluster management.
-- Integrating Kubernetes into DevOps workflows.
-- Building a more agile and manageable infrastructure using Kubernetes in microservices architectures.
-
-This training has equipped **SBM Turkey's teams** with the skills to effectively and efficiently use Kubernetes in their corporate projects, preparing the organization's technology infrastructure for the future.
-
-## Expertise in Software Development and Architecture
-
-With extensive expertise in Microsoft technologies and .NET, I excel at creating strategic software solutions and successfully managing digital transformation projects. My deep knowledge and experience in ERP integrations, e-commerce platforms, and IoT systems allow me to deliver robust and innovative solutions tailored to the unique needs of businesses.
-
-In my previous role as the Head of Software Training at one of Turkey's largest Microsoft authorized training institutions, I played a key role in developing the next generation of software educators. I successfully trained hundreds of new instructors, authored in-house technology books, and achieved a remarkable 100% referral rate for student enrollments, demonstrating our commitment to quality education and student satisfaction.
-
 ## Driving Business Transformation
 
 One of my notable achievements includes the development of a field management system in 2000 that transformed a company's revenue from $47 million to an impressive $2 billion within a year. This system significantly enhanced field management efficiency, enabling effective process oversight and substantial financial transformation.
@@ -100,6 +62,44 @@ I am passionate about exploring new partnerships that push the boundaries of tec
 - Problem Solving
 - Software Architecture
 - AI Software Development
+
+---
+
+## "Kubernetes: From Zero to Mastery" Training
+
+The **"Kubernetes: From Zero to Mastery"** training delivered to **SBM Turkey (Insurance Information and Monitoring Center)** was a comprehensive and highly interactive program that spanned 12 days. Throughout the training, participants engaged in hands-on activities based on real-world scenarios, enabling them to learn the Kubernetes ecosystem from beginner to advanced levels with a practical, hands-on approach.
+
+**Training Topics Covered:**
+
+1. **Introduction and Core Concepts**  
+2. **Kubernetes Components**  
+3. **Networking and Service Management**  
+4. **Persistent Storage and Volume Management**  
+5. **Kubernetes Security**  
+6. **Advanced Topics**  
+7. **Monitoring, Logging, and Alerting**  
+8. **Application Scaling with Kubernetes**  
+
+**Training Approach:**
+
+This training was structured to combine theoretical lessons with immediate hands-on (practical) work. Every participant had the opportunity to directly experience Kubernetes through real-world scenarios. The interactive, project-based approach allowed participants to actively apply each concept as they learned, making the training both engaging and effective.
+
+**Training Outcomes:**
+
+Through this training, **SBM Turkey** gained the following competencies:
+
+- Mastering container orchestration with Kubernetes to achieve high availability and scalability.
+- Applying advanced security and performance optimizations in Kubernetes cluster management.
+- Integrating Kubernetes into DevOps workflows.
+- Building a more agile and manageable infrastructure using Kubernetes in microservices architectures.
+
+This training has equipped **SBM Turkey's teams** with the skills to effectively and efficiently use Kubernetes in their corporate projects, preparing the organization's technology infrastructure for the future.
+
+## Expertise in Software Development and Architecture
+
+With extensive expertise in Microsoft technologies and .NET, I excel at creating strategic software solutions and successfully managing digital transformation projects. My deep knowledge and experience in ERP integrations, e-commerce platforms, and IoT systems allow me to deliver robust and innovative solutions tailored to the unique needs of businesses.
+
+In my previous role as the Head of Software Training at one of Turkey's largest Microsoft authorized training institutions, I played a key role in developing the next generation of software educators. I successfully trained hundreds of new instructors, authored in-house technology books, and achieved a remarkable 100% referral rate for student enrollments, demonstrating our commitment to quality education and student satisfaction.
 
 ---
 
