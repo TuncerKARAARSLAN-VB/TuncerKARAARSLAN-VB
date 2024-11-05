@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQGinomQeqwuCA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726588874154?e=1732147200&v=beta&t=-dzpQkzNV-kGrGXRYF_aWUiW_5hFLTnvtlbD2dsNnSE"></img>
+![linkedin-header](https://github.com/user-attachments/assets/7092576e-c145-45e1-baa6-3023ade1db07)
 
 <h1 align="center">Hi 👋, I'm Tuncer KARAARSLAN</h1>
 <h3 align="center">Microsoft Technologies & .NET Authorized Partner - Software Solution Architect</h3>
