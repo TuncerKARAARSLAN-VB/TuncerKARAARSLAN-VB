@@ -1,9 +1,5 @@
 ![linkedin-header](https://github.com/user-attachments/assets/7092576e-c145-45e1-baa6-3023ade1db07)
 
-# Ben Tuncer KARAARSLAN
-
-## ikinci satırda geldi.
-
 <h1 align="center">Hi 👋, I'm Tuncer KARAARSLAN</h1>
 <h3 align="center">Microsoft Technologies & .NET Authorized Partner - Software Solution Architect</h3>
 
