@@ -25,6 +25,12 @@
 
 As a seasoned software architect and developer with over 25 years of experience, I am open to various partnership ideas. I invite you to explore collaboration opportunities with me as your technological partner in the development, management, and multifaceted aspects of new technologies. Please feel free to reach out to me with your proposals under strict confidentiality.
 
+Are you looking for expert support in Kubernetes training, architectural infrastructure design, contract management, consulting, and automation of software development processes? We specialize in military-grade Kubernetes deployments, offering technical consulting, training, implementation, and solutions tailored to all your needs.  
+
+Our training programs are designed to empower your teams with comprehensive knowledge, bridging the gap between theory and practice to optimize your Kubernetes infrastructure. For the latest course offerings, explore our [**GitHub training catalog**](https://github.com/TuncerKARAARSLAN-VB/training-contents/blob/main/readme.md), and for detailed inquiries or collaboration opportunities, connect with us on [**LinkedIn**](https://www.linkedin.com/in/tuncerkaraarslan/).  
+
+***Whatever your goals may be, we are here to guide you on your Kubernetes journey!***
+
 ## Driving Business Transformation
 
 One of my notable achievements includes the development of a field management system in 2000 that transformed a company's revenue from $47 million to an impressive $2 billion within a year. This system significantly enhanced field management efficiency, enabling effective process oversight and substantial financial transformation.
