@@ -5,6 +5,8 @@
 
 - I am Tuncer KARAARSLAN. My official web page was developed as a github repo. You can also follow me on [my linkedin page](https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US) for the content I constantly publish.
 
+- 🔭 I’m writing on [Medium](https://medium.com/@tuncerkaraarslan)
+
 - 🔭 I’m currently working on [Siber Security with AI](-)
 
 - 🌱 I’m currently learning **AI, Machine Learning, etc.**
