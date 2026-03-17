@@ -1,394 +1,1141 @@
+---
+version: 1
+generated_for: AI
+name: "Tuncer KARAARSLAN"
+title: "Software Solution Architect"
+emails:
+  - "tuncer.karaarslan@vebende.com"
+  - "tuncer.karaarslan@gmail.com"
+linkedin: "https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US"
+medium: "https://medium.com/@tuncerkaraarslan"
+training_catalog: "https://github.com/TuncerKARAARSLAN-VB/training-contents"
+location: "İzmir, Turkey"
+experience_years: 25
+skills:
+  backend: ["C#", ".NET", "Node.js", "Java"]
+  cloud_devops: ["Kubernetes", "Docker", "Azure", "CI/CD"]
+  data_ml: ["Python", "TensorFlow", "data pipelines"]
+  infra_integration: ["Kafka", "RabbitMQ", "SAP", "IBM Maximo"]
+  frontend_mobile: ["JavaScript", "Vue.js", "Objective-C", "Android (Java)"]
+projects:
+  - id: field-management-2000
+    name: Field Management System
+    role: Lead Architect
+    impact: "Revenue growth from $47M to $2B in one year"
+  - id: kubernetes-training-sbm
+    name: Kubernetes: From Zero to Mastery
+    role: Trainer
+  - id: kipu
+    name: KIPU Mobile Book Sharing
+    role: Architect
+---
+
 ![linkedin-header](https://github.com/user-attachments/assets/7092576e-c145-45e1-baa6-3023ade1db07)
 
-<h1 align="center">Hi 👋, I'm Tuncer KARAARSLAN</h1>
-<h3 align="center">Microsoft Technologies & .NET Authorized Partner - Software Solution Architect</h3>
+<!-- JSON-LD machine-readable profile -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Tuncer KARAARSLAN",
+  "jobTitle": "Software Solution Architect",
+  "description": "Software architect and technology leader with 25+ years of experience in enterprise systems, cloud-native platforms, and AI-enabled decision support.",
+  "email": ["tuncer.karaarslan@vebende.com", "tuncer.karaarslan@gmail.com"],
+  "url": "https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US",
+  "sameAs": [
+    "https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US",
+    "https://medium.com/@tuncerkaraarslan",
+    "https://github.com/TuncerKARAARSLAN-VB/training-contents"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Vebende Yazılım Tekstil Üretim A.Ş."
+  },
+  "knowsAbout": ["Kubernetes",".NET","C#","AI","Machine Learning","DevOps","Kubernetes Training","ERP Integration","GIS","IBM Maximo"]
+}
+</script>
 
-- I am Tuncer KARAARSLAN. My official web page was developed as a github repo. You can also follow me on [my linkedin page](https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US) for the content I constantly publish.
+Microsoft technologies specialist • .NET Authorized Partner • Architect, Trainer, Consultant
 
-- 🔭 I’m writing on [Medium](https://medium.com/@tuncerkaraarslan)
+I am a software architect and technology leader with more than 25 years of experience delivering enterprise-grade systems, technical training programs, and digital transformation projects. My work combines pragmatic engineering, security-first design, and measurable business outcomes.
 
-- 🔭 I’m currently working on [Siber Security with AI](-)
-
-- 🌱 I’m currently learning **AI, Machine Learning, etc.**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US](https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US](https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US)
-
-- 💬 Ask me about **c#, .net, asp.net core mvc, sql, web.api, web services, razor, blazo**
-
-- 📫 How to reach me **tuncer.karaarslan@vebende.com, tuncer.karaarslan@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US](https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US)
-
-- [📄 For the trainings I provide in Turkish and their contents](https://github.com/TuncerKARAARSLAN-VB/training-contents)
-
-# Partnership Opportunities: Let's Innovate Together
-
-As a seasoned software architect and developer with over 25 years of experience, I am open to various partnership ideas. I invite you to explore collaboration opportunities with me as your technological partner in the development, management, and multifaceted aspects of new technologies. Please feel free to reach out to me with your proposals under strict confidentiality.
-
-Are you looking for expert support in Kubernetes training, architectural infrastructure design, contract management, consulting, and automation of software development processes? We specialize in military-grade Kubernetes deployments, offering technical consulting, training, implementation, and solutions tailored to all your needs.  
-
-Our training programs are designed to empower your teams with comprehensive knowledge, bridging the gap between theory and practice to optimize your Kubernetes infrastructure. For the latest course offerings, explore our [**GitHub training catalog**](https://github.com/TuncerKARAARSLAN-VB/training-contents/blob/main/readme.md), and for detailed inquiries or collaboration opportunities, connect with us on [**LinkedIn**](https://www.linkedin.com/in/tuncerkaraarslan/).  
-
-***Whatever your goals may be, we are here to guide you on your Kubernetes journey!***
-
-## Driving Business Transformation
-
-One of my notable achievements includes the development of a field management system in 2000 that transformed a company's revenue from $47 million to an impressive $2 billion within a year. This system significantly enhanced field management efficiency, enabling effective process oversight and substantial financial transformation.
-
-## Embracing Artificial Intelligence
-
-I also have significant experience in leveraging the latest advancements in artificial intelligence to optimize business processes, data analysis, and automation solutions. By applying AI technologies, I have successfully implemented projects that provide clients with innovative and effective solutions to meet their operational needs.
-
-## Conclusion
-
-I am passionate about exploring new partnerships that push the boundaries of technology and innovation. If you're interested in discussing potential collaboration or sharing ideas, please don't hesitate to connect. Together, we can create impactful solutions that drive business success in today’s rapidly evolving digital landscape.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tuncerkaraarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuncerkaraarslan" height="30" width="40" /></a>
-</p>
-
-# My Work Experiences and Journey, My Life 
-
-## CEO, Founder  
-
-**Vebende Yazılım Tekstil Üretim A.Ş.** · Self-employed  
-**Oct 2022 - Present** (2 years 1 month)  
-*Izmir, Turkey · Hybrid*  
-
-### Responsibilities:
-
-- **Development of Financial Decision Support Systems and Artificial Intelligence Applications**  
-  Our company develops Financial Decision Support Systems (DSS) that enable organizations to make data-driven financial decisions. By integrating artificial intelligence (AI), these systems enhance decision-making through real-time data analysis, transforming raw financial data into meaningful insights for strategic planning. Machine learning algorithms empower the DSS to learn from historical data, allowing for future projections in asset management, budgeting, and investment strategies.
-
-- **E-Commerce Systems and Service Development & Management**  
-  We focus on critical elements like user experience (UX) design, payment gateway integration, inventory management, and customer relationship management (CRM) to create robust e-commerce platforms. Continuous optimization and monitoring ensure adaptability to rapidly changing consumer expectations while maintaining data security.
-
-- **Software Architecture, Consulting, and Cybersecurity**  
-  Our software architects design scalable systems that balance functionality, performance, and security. Consulting services provide expert guidance in software development and technology adoption, backed by comprehensive software and cybersecurity agreements.
-
-### Skills:
-
-- E-commerce SEO
-- Fintech
-- Cybersecurity
-- Problem Solving
-- Software Architecture
-- AI Software Development
+Connect: https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US
 
 ---
 
-## "Kubernetes: From Zero to Mastery" Training
+## Summary
 
-The **"Kubernetes: From Zero to Mastery"** training delivered to **SBM Turkey (Insurance Information and Monitoring Center)** was a comprehensive and highly interactive program that spanned 12 days. Throughout the training, participants engaged in hands-on activities based on real-world scenarios, enabling them to learn the Kubernetes ecosystem from beginner to advanced levels with a practical, hands-on approach.
-
-**Training Topics Covered:**
-
-1. **Introduction and Core Concepts**  
-2. **Kubernetes Components**  
-3. **Networking and Service Management**  
-4. **Persistent Storage and Volume Management**  
-5. **Kubernetes Security**  
-6. **Advanced Topics**  
-7. **Monitoring, Logging, and Alerting**  
-8. **Application Scaling with Kubernetes**  
-
-**Training Approach:**
-
-This training was structured to combine theoretical lessons with immediate hands-on (practical) work. Every participant had the opportunity to directly experience Kubernetes through real-world scenarios. The interactive, project-based approach allowed participants to actively apply each concept as they learned, making the training both engaging and effective.
-
-**Training Outcomes:**
-
-Through this training, **SBM Turkey** gained the following competencies:
-
-- Mastering container orchestration with Kubernetes to achieve high availability and scalability.
-- Applying advanced security and performance optimizations in Kubernetes cluster management.
-- Integrating Kubernetes into DevOps workflows.
-- Building a more agile and manageable infrastructure using Kubernetes in microservices architectures.
-
-This training has equipped **SBM Turkey's teams** with the skills to effectively and efficiently use Kubernetes in their corporate projects, preparing the organization's technology infrastructure for the future.
-
-## Expertise in Software Development and Architecture
-
-With extensive expertise in Microsoft technologies and .NET, I excel at creating strategic software solutions and successfully managing digital transformation projects. My deep knowledge and experience in ERP integrations, e-commerce platforms, and IoT systems allow me to deliver robust and innovative solutions tailored to the unique needs of businesses.
-
-In my previous role as the Head of Software Training at one of Turkey's largest Microsoft authorized training institutions, I played a key role in developing the next generation of software educators. I successfully trained hundreds of new instructors, authored in-house technology books, and achieved a remarkable 100% referral rate for student enrollments, demonstrating our commitment to quality education and student satisfaction.
+I design and deliver high-availability backend systems, cloud-native platforms, and AI-enabled decision-support systems. I provide hands-on training (Kubernetes, DevOps, Microsoft technologies), architecture consulting, and secure deployment guidance for enterprises and mid-market organizations. My approach focuses on delivering business impact through automation, observability, and maintainable engineering practices.
 
 ---
 
-## Mobile Book Sharing Application: KIPU  
+## What I Offer
 
-**Germany Private Company** · Contract  
-**Nov 2014 - Present** (10 years)  
-*Hybrid*  
-
-### Responsibilities:
-
-- Played a crucial role in the development of iOS, Android, and backend systems as a software architect and technology consultant.
-- Developed a platform for sharing books using Objective-C for iOS and Native Java for Android, with a scalable backend architecture using Node.js and C#.
-- Enabled users to share books easily and integrated courier services for efficient book pickups.
-- Utilized MongoDB for effective data management.
-
-### Skills:
-
-- MongoDB
-- Node.js
-- Service-Oriented Architecture (SOA)
+- Strategic architecture and technical leadership for complex systems
+- Hands-on Kubernetes and cloud-native training (fundamentals → advanced labs)
+- Custom AI/ML solutions for automation, forecasting, and decision support
+- DevOps automation, CI/CD pipelines, and secure production deployments
+- ERP, e-commerce and systems integration (SAP, marketplace connectors)
 
 ---
 
-## Development of E-Commerce Operations Software  
+## Notable Impact
 
-**Mela Group** · Full-time  
-**May 2020 - Oct 2022** (2 years 6 months)  
-*Izmir, Turkey · Office*  
-
-### Responsibilities:
-
-- Enabled seamless integration of ERP systems with online sales channels like Amazon, Trendyol, and Hepsiburada for effective process management.
-- Developed warehouse management and online store stock update systems to track inventory and facilitate quick responses to customer demands.
-- Automated order packaging, shipping management, and inventory accuracy, enhancing operational efficiency.
-
-### Skills:
-
-- E-commerce SEO
-- Problem Solving
-- E-commerce
-- Search Engine Optimization (SEO)
+- Led the design and delivery of a field-management system (2000) that helped scale client revenue from $47M to $2B in one year by streamlining field operations and automating core processes.
 
 ---
 
-## ARGE Team Lead, Software and Headend Team Lead  
+## Professional Experience (selected)
 
-**LUNA Elektrik Elektronik San. Tic. A.Ş.** · Full-time  
-**Feb 2018 - Jan 2020** (2 years)  
-*Izmir, Turkey · Office*  
+### CEO & Founder — Vebende Yazılım Tekstil Üretim A.Ş.
+Oct 2022 — Present | İzmir, Turkey (Hybrid)
 
-### Responsibilities:
+Lead product strategy, architecture and delivery for projects focused on financial decision support, e-commerce platforms and AI-driven automation. Provide consulting on secure cloud migrations and scalable system design.
 
-- Developed energy management information systems for electricity distribution networks and smart electricity meters.
-- Integrated online payment systems in prepayment systems for African and Middle Eastern countries.
-- Focused on cybersecurity layers and data management for large datasets generated daily.
+Key contributions:
+- Architected Financial Decision Support Systems (DSS) with integrated ML models for forecasting and scenario analysis.
+- Built e-commerce integrations, payment flows and inventory automation for retailers.
+- Advised customers on cybersecurity posture and resilient architecture.
 
-### Skills:
-
-- Problem Solving
-- Employee Training
-- Consulting
-- Technology Transfer
+Core skills: Software Architecture, AI/ML, Cybersecurity, E-commerce integrations
 
 ---
 
-## Next Generation LoRa Devices and Asset Management System  
+### Kubernetes: From Zero to Mastery — Corporate Training
+SBM Turkey (Insurance Information and Monitoring Center) — 12-day intensive
 
-**Trio Mobil** · Contract  
-**Jul 2017 - Dec 2017** (6 months)  
-*Istanbul, Turkey · Remote*  
+Delivered a project-based course covering Kubernetes fundamentals, cluster components, networking, storage, security, monitoring and scaling. Emphasized lab work and operational best practices to integrate Kubernetes into existing DevOps workflows.
 
-### Responsibilities:
-
-- Developed a map-enabled asset management system using LoRa technology for real-time asset tracking and management.
-- Utilized Node.js and modern JavaScript technologies to create a fast, scalable application.
-- Enhanced asset security and productivity through innovative solutions.
-
-### Skills:
-
-- N/A
+Outcome: improved platform maturity, security practices, and automation of delivery pipelines.
 
 ---
 
-## Technology & Business Development Engineer  
+### Mobile Book Sharing Platform — KIPU (Contract)
+Nov 2014 — Present | Germany (Remote / Hybrid)
 
-**Siskon Software & Automation** · Full-time  
-**May 2012 - Jun 2017** (5 years 2 months)  
+Role: Architect & consultant. Designed native mobile clients (iOS, Android) with a scalable backend composed of Node.js and .NET microservices. Implemented courier integrations and used MongoDB for flexible data modeling.
 
-### Responsibilities:
-
-- Developed customized projects for Japan Tobacco International (JTI) factories.
-- Created high-performance iPhone and iPad applications using Objective-C.
-- Provided advanced .NET backend solutions and client-side development to enhance user interaction.
-
-### Skills:
-
-- Problem Solving
-
-# Development of E-Commerce Shopping System - Evoria
-
-**Evoria** · Tam zamanlı  
-**Ara 2011 - May 2012 · 6 ay**  
-**Software Architect, Consultant, Coordinator · At the Office**  
-
-## Development of an E-Commerce Portal with Mobile and Web Technologies: Shopping System Development
-
-In the past, I led the development of an advanced e-commerce portal for the Evoria women's lifestyle brand. As both the architect and developer of the project, I took an active role in all phases of its execution. I facilitated the invitation and coordination of all necessary teams, ensuring effective communication and collaboration across various departments, including design, development, and marketing.
-
-The e-commerce portal was designed using the .NET MVC (Model-View-Controller) architecture, making it one of the most advanced systems of its time. This architecture provided a clear code structure, enabling manageability and scalability. The system was developed to handle high traffic volumes, which is a critical requirement for a successful online shopping platform.
-
-The development process integrated both mobile and web technologies to create a user-friendly experience. By adhering to responsive design principles, we ensured the portal was accessible across different devices. I designed and implemented features that enhanced user engagement, such as streamlined payment processes and personalized recommendations.
-
-Planning and coding phases were shaped by an analysis of user needs and market trends. We rigorously tested the project before its launch. Evoria successfully entered the women's lifestyle market, establishing itself as a reliable name in e-commerce.
-
-This experience reinforced my commitment to delivering customer-centric and innovative solutions. Positive feedback from users and stakeholders validated our efforts and contributed to Evoria's reputation as a trusted player in the e-commerce space.
+Technologies: Objective‑C, Java (Android), Node.js, .NET, MongoDB
 
 ---
 
-## Skills
+### E-commerce Operations — Mela Group
+May 2020 — Oct 2022 | İzmir, Turkey
 
-- Google Analytics
-- Google Webmaster Tools
-- Problem Solving
-- Payment Systems
-- Billing Systems
-- Google Adwords
-- Campaign Management
-- E-commerce
+Delivered ERP-to-marketplace integrations (Amazon, Trendyol, Hepsiburada), warehouse automation and order processing improvements that reduced errors and increased throughput.
 
 ---
 
-# Warehouse Management System Development
+### R&D & Headend Team Lead — LUNA Elektrik Elektronik
+Feb 2018 — Jan 2020 | İzmir, Turkey
 
-**Ciragan Palace Kempinski Istanbul** · Contracted  
-**Tem 2011 - Ara 2011 · 6 ay**  
-**Consultant · At the Office**  
-
-I developed an integrated warehouse and operations management system with IBM Maximo. This project involved managing warehouse assets, recording assets in different locations, and establishing product hierarchy relationships between assets and warehouse products. The system not only kept track of warehouse assets but also managed maintenance and repair orders.
-
-By integrating this system with warehouse management, task management was optimized to enhance operational efficiency. Maximo’s advanced features enabled detailed tracking of each asset's location, status, and maintenance history, allowing early detection of potential issues. This improved the speed and organization of warehouse operations.
-
-Additionally, task management improved coordination between operational centers, with the introduction of an automated work order system. This allowed operational processes to be managed with minimal human intervention, streamlining day-to-day activities.
+Led projects for energy management systems and smart metering integrations, focusing on secure telemetry, data processing and payment systems for prepayment solutions.
 
 ---
 
-## Skills
+### LoRa Asset Management & IoT Solutions — Trio Mobil
+Jul 2017 — Dec 2017 | Istanbul, Turkey (Contract)
 
-- Problem Solving
-
-# Microsoft Software Technologies Department Head
-
-**Company:** BilgeAdam Akademi  
-**Type:** Full-time  
-**Duration:** Jan 2002 - Nov 2011 (9 years 11 months)  
-**Location:** Istanbul, Turkey (Office-based)
-
-Bilgeadam Information Technology Academy is one of the largest educational institutions in Turkey and an authorized Microsoft training center. It stands as the largest training institution in Europe and is recognized globally as one of the most significant CPLS (Certified Partner for Learning Solutions) centers. During the early 2000s, the training programs could last up to three years, depending on the type of education. Today, Bilgeadam offers individual training across various locations, including Silicon Valley in the U.S., and provides outsourced human resources solutions to meet the IT needs of major corporations in Turkey. With its expertise and scale, it has become the most competent and undisputed leader in the industry.
-
-In my role at Bilgeadam, I was responsible for:
-
-- Development of training sales strategies
-- Overseeing and improving training quality
-- Creating educational materials
-- Training the trainers
-
-I also ensured that personnel continuously developed their skills in emerging technologies and organized seminars to maintain international standards of training excellence.
-
-Between 2002 and 2011, I held three key positions at Bilgeadam:
-
-1. **Trainer**
-2. **Head of Software Training**
-3. **Oversight of Outsourced Personnel for Key Clients**
-
-In this capacity, I managed the coordination and supervision of outsourced staff, ensuring that client requirements were met effectively. I also played a crucial role in documentation and training processes, ensuring that both were aligned with the highest industry standards. As a software architect, I led efforts to develop solutions tailored to client needs and guided teams to implement these solutions successfully.
+Built a map-enabled asset tracking solution using LoRa connectivity, real-time APIs and modern JavaScript frontends to provide location visibility and alerts.
 
 ---
 
-# Development of the Warehouse Management System
+### Technology & Business Development Engineer — Siskon Software & Automation
+May 2012 — Jun 2017
 
-**Company:** Farma Lojistik  
-**Type:** Contract  
-**Duration:** Jan 2011 - Jul 2011 (7 months)  
-**Position:** Consultant  
-**Location:** Office-based
-
-Managing the processes from collecting incoming work orders from a 25,000 m² warehouse in SAP, transferring products collected with pallets to collection points, palletizing, loading, and delivering them to customers. In this project, collection times were minimized, and with the developed handheld terminal software, the warehouse, where 8.5 million boxes are moved monthly, was managed by a total of 21 people, including the general manager.
-
-The most important feature of the project is that it includes the concept of 'mudi.' The system ensures that products with the nearest expiration date are collected first, but since the products on the shelf containing medicines belong to different companies, only the products nearing expiration from the specific company are collected. This feature does not normally exist in warehouse and packaging management systems, so the product was redeveloped to work fully integrated with SAP.
+Delivered custom automation and mobile solutions for industrial clients, including iOS applications and .NET backends.
 
 ---
 
-# Energy Asset Investment and Asset Maintenance, Repair and Management with IBM Maximo
+### E-commerce Portal (Evoria) — Software Architect
+Dec 2011 — May 2012
 
-**Company:** Lider Electricity Distribution Company 
-**Type:** Contract  
-**Duration:** Sep 2010 - Dec 2010 (4 months)  
-**Location:** Ankara, Turkey (Hybrid)
-
-I played an important role in the digitization of assets within the scope of Geographic Information System (GIS) implementation of the leading energy company in the energy distribution sector. In this process, I provided support in both project management and technology training by providing consultancy, thus contributing to the successful completion of the project.
-
-The project involved the integration of advanced asset management systems such as IBM Maximo to effectively manage energy assets. IBM Maximo is a platform that aims to reduce costs and increase efficiency by optimizing the maintenance, repair, and management processes of assets. With the implementation of this system, the energy company gained better control over its assets. Maintenance times were shortened, proactive approaches were developed to prevent failures, and the lifespan of assets was extended.
-
-During the project, I provided technology training to the team members to ensure the effective use of the system. Thanks to these trainings, the employees understood the functioning of the new system and were able to adapt to the asset management processes. In addition, digitizing energy assets, visualizing them on maps, and supporting them with data analytics strengthened decision-making processes.
-
-The rapid change and transformation in the energy sector has made it imperative for companies to develop effective asset management strategies to gain competitive advantage. With this project, the energy company took an important step towards digitalization in asset management and created a solid foundation for future investments.
-
-As a result, this project on digitization and management of energy assets has not only improved the operational efficiency of the company but also raised the standards of the industry. Taking part in this process has been a valuable experience and professional development opportunity for me.
-
-## TavEarth Map-Supported Area Management System
-
-**TAV Airports**  
-*Haz 2008 - May 2009 · 1 yıl*  
-**Role:** Consultant, Development
-
-I led the development of a system to manage all rentable areas within Istanbul Atatürk Airport through an integrated mapping solution. This project involved creating a map-based contract management, leasing, and maintenance system. Utilizing Oracle Spatial data systems and integrating Autodesk Civil 3D, AutoCAD, Map 3D, and MapGuide Geo Server, we developed a seamless workflow for digital asset management. I also provided data entry training for the architectural office and other departments, ensuring the ongoing maintenance and improvement of the system.
-
-All airport maps were imported into the Oracle database with local coordinate systems, allowing the Contracts Department to perform planning directly on the map interface. This added a new strategic layer to airport management. The system was further integrated with IBM Maximo, offering a comprehensive approach to managing all services within the airport.
-
-Thanks to the expertise gained from this project, I became the sole certified consultant and development expert for Oracle Spatial and Autodesk Spatial systems in the EMEA region. As a result, I provided consultancy and application development services to hundreds of organizations in Turkey, contributing significantly to the digital transformation of the industry.
+Architected a high-traffic .NET MVC e-commerce portal with responsive design, payment integration and mobile channel support. Focused on scalability, conversion and performance.
 
 ---
 
-## ISKABIS Infrastructure Water Network Management System
+### Warehouse & Logistics Systems (selected)
+Various contracts including Ciragan Palace Kempinski and Farma Lojistik
 
-**ISKI**  
-*Nis 2006 - Nis 2007 · 1 yıl 1 ay*  
-**Role:** Consultant & Trainer
-
-ISKABIS is an advanced infrastructure management system designed to facilitate the planning, operation, and maintenance of municipal water distribution networks. Integrating various technologies, including GIS Server, Autodesk MapGuide, Map 3D, Civil 3D, Oracle, and AutoCAD, ISKABIS focuses on real-time data accuracy and scalability, enabling water authorities to efficiently monitor and manage complex systems.
-
-A significant achievement of ISKABIS is the integration of over 8 million datasets, including building and water subscriber information, into a single GIS interface. This capability allows for real-time data presentation and management, greatly enhancing the visibility of critical infrastructure components. GIS-supported maps provide detailed information on water pipes, valves, and subscriber data, effectively visualizing geographic information.
-
-Utilizing Oracle Spatial databases, ISKABIS accurately represents local coordinate systems, helping operators make informed decisions regarding routine maintenance, network expansion, and data-driven analyses. The system also integrates with external systems like IBM Maximo, improving maintenance management and asset tracking processes.
-
-Training for teams is a crucial aspect of ISKABIS, alongside consultancy and development services. This ensures users effectively utilize the system, facilitating better decision-making.
-
-By adopting a proactive approach, water authorities can respond quickly to issues, optimize resource allocation, and enhance network performance. As the project's architect and developer, I coordinated all teams and integrated technological solutions. My expertise in Oracle Spatial and Autodesk Spatial enabled me to provide consultancy services to numerous organizations in water infrastructure management, contributing to more efficient practices that benefit both authorities and communities.
+- Integrated warehouse operations with IBM Maximo and SAP, designed handheld terminal software and optimized workflows for large-scale logistics operations.
 
 ---
 
-## The Future Municipality: The Entire City Can Be Monitored and Managed Online
+### Enterprise Training & Education — BilgeAdam Akademi
+Jan 2002 — Nov 2011 | Istanbul, Turkey
 
-**Borat Sayısal ve Geleceğim Belediye Çözümleri**  
-*Oca 2004 - Kas 2005 · 1 yıl 11 ay*  
-**Role:** Yazılım Mimarı, Takım Lideri
-
-In 2005, I played an important role in the digitization project of a province's Geographic Information System (GIS) data and actively contributed to the development of the automation system designed to manage the processes of the municipality's water, environment, accounting and collection units. As a team leader and software architect, I ensured the maintenance and management of Oracle databases, web application development approaches with C#, and the transfer of old data to the new system. In this process, I aimed for data security and fast transfer.
-
-The automation system developed enabled the services provided to be visualized on the map. In this way, the distribution of investments was tracked and solution strategies were developed by monitoring the intensity of problems and notifications received from citizens. Monitoring pending problems on giant screens on the map contributed to the transparency of operational processes.
-
-Automation allowed the mayor, who manages the city, to monitor the tasks of his teams in the field. Garbage collection operations were updated according to traffic density, and teams in the field were directed via tablets. This flexibility increased the efficiency of garbage collection processes and enabled better planning.
-
-Water and environment units managed collection processes more effectively, while the accounting unit made financial transactions more transparent. This facilitated citizens' access to water and environmental services.
-
-I followed the progress of the project through regular meetings and was involved in problem-solving processes. This approach kept team members focused on the goals and increased their motivation.
-
-As a result, the automation system developed has increased the municipality's operational efficiency and improved service quality. This process, which provided significant benefits for both employees and citizens, was a valuable experience for my professional development.
+Head of Software Training: developed curricula, trained instructors, and managed large-scale training programs for Microsoft technologies and enterprise skills.
 
 ---
 
-## Development of CRM, Field Management, and Activity Planning Software
+### GIS & Asset Management Programs (selected)
+TAV Airports — map-based area and contract management (Oracle Spatial, Autodesk integration)
 
-**TETAŞ Domestic and Foreign Trade Inc.**  
-*Haz 1999 - Oca 2002 · 2 yıl 8 ay*  
-**Role:** N/A
+ISKI — ISKABIS water network management (integration of 8M+ records into GIS and operational dashboards)
 
-In 1999, I pioneered a groundbreaking CRM application, one of the first mobile software solutions for smartphones. This application transformed customer relationship management by enabling users to store customer data in a centralized system and track interactions in real-time. By offering mobile access, I empowered field teams to access customer information from anywhere. Features like customer segmentation, analysis, and reporting helped sales teams create more effective campaigns and improve customer satisfaction.
+---
 
-During the same period, I developed specialized software for the effective management of field teams and planning of activities. These applications allowed real-time tracking of field personnel's tasks, locations, and schedules. This led to more efficient resource utilization and improved operational processes.
+## Selected Achievements
 
-Notably, leveraging data from IBM Maximo and integrating it with other field management systems resulted in the sales department achieving sales of up to $2 billion within just two years in the early 2000s. The integration with SQL Server enhanced data analysis and reporting, significantly contributing to strategic decision-making processes.
+- Business transformation via field management automation leading to substantial revenue growth for a major client.
+- Successful delivery of enterprise Kubernetes training that improved container platform operations and security.
+- Implementation of multiple e-commerce ERP integrations and warehouse automations that reduced operational costs and errors.
 
-Additionally, I developed innovative software to support sales and marketing processes. These applications facilitated market analysis, campaign management, and the collection of customer feedback, helping sales teams enhance their performance. With robust data analysis and reporting capabilities, I supported strategic decision-making processes, enabling businesses to gain a competitive edge. The innovative software solutions I developed served as a benchmark in the industry and underscored the importance of a customer-centric approach.
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Skills & Technologies
+
+- Backend: .NET (C#), Node.js, Java, SQL Server, Oracle, MongoDB, Redis
+- Cloud & DevOps: Kubernetes, Docker, Azure, CI/CD, Jenkins, Nginx
+- Frontend & Mobile: JavaScript, Vue.js, Bootstrap, Objective‑C, Android (Java)
+- Data & ML: Python, TensorFlow, data pipelines, analytics
+- Integration & Messaging: Kafka, RabbitMQ, Elasticsearch, SAP, IBM Maximo
+- Architecture & Security: High-availability architecture, secure design, threat modeling
+
+---
+
+## Publications & Training Resources
+
+- Training catalog (Turkish): https://github.com/TuncerKARAARSLAN-VB/training-contents
+- Articles and posts: LinkedIn and Medium profiles (links at top)
+
+---
+
+## Contact
+
+- Email: tuncer.karaarslan@vebende.com | tuncer.karaarslan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US
+
+If you would like a concise CV or a tailored partnership proposal, contact me and I will prepare a focused document for your review.
+
+---
+
+## Trainings & Site Content — Full Sitemap Import
+
+All pages from the site's sitemap will be dynamically imported and summarized below. This ensures every page is represented and given a concise, machine-friendly summary. The script fetches `/sitemap.xml`, extracts URLs, generates a JSON-LD `ItemList` and appends a human-readable index with short introductions.
+
+<noscript>
+  Please enable JavaScript to view the full generated trainings catalog. The raw sitemap is available at `/sitemap.xml`.
+</noscript>
+
+<div id="generated-catalog">
+  <!-- Static comprehensive trainings list generated from sitemap_full.json -->
+
+  ## Full Trainings — Detailed Entries (static)
+
+  The following is a complete, static listing of all pages and trainings indexed from the site's sitemap. Each entry includes a concise machine-friendly description and the canonical site link. Use `wwwroot/data/sitemap_full.json` for the raw URL list and `https://www.vebende.com.tr/sitemap.xml` as the canonical sitemap link.
+
+
+  <!-- Begin detailed entries -->
+
+
+  ### Home
+  Description: Main site homepage and overview of services, trainings and contact information.
+  Link: https://www.vebende.com.tr/
+
+  ### Emergency Recovery & Intervention Support
+  Description: Service page describing emergency rescue and intervention support offerings.
+  Link: https://www.vebende.com.tr/acil-durum-kurtarma-mudahale-destegimiz
+
+  ### Advanced ChatGPT
+  Description: Advanced hands-on course on ChatGPT internals, deployment, and prompt engineering.
+  Link: https://www.vebende.com.tr/advanced-chatgpt
+
+  ### AGI — General Artificial Intelligence Training
+  Description: Introductory course covering AGI concepts, safety, governance and strategy.
+  Link: https://www.vebende.com.tr/agi-genel-yapay-zeka-egitimi
+
+  ### Agile, Scrum & Kanban — Project Management
+  Description: Practical training on Agile delivery with Scrum and Kanban methods for teams and PMs.
+  Link: https://www.vebende.com.tr/agile-scrum-kanban-proje-yonetimi
+
+  ### Agentic AI (AI Agents) Training
+  Description: Training on designing and deploying autonomous AI agents and orchestration patterns.
+  Link: https://www.vebende.com.tr/ai-agent-agentic-ai-egitimi
+
+  ### AI — Advanced Architectures
+  Description: Architectural patterns for large-scale AI systems, model serving and production ML.
+  Link: https://www.vebende.com.tr/ai-super-yapay-zeka-mimarisi
+
+  ### Apache Kafka — Streaming Architectures
+  Description: End-to-end Kafka course covering messaging, stream processing, and operations.
+  Link: https://www.vebende.com.tr/apache-kafka
+
+  ### Argo CD — GitOps & Continuous Delivery
+  Description: Hands-on course on GitOps with Argo CD, multi-cluster strategies and app-of-apps patterns.
+  Link: https://www.vebende.com.tr/argo-cd
+
+  ### ASI — Super Artificial Intelligence
+  Description: Program page discussing advanced AI topics and applied research directions.
+  Link: https://www.vebende.com.tr/asi-super-yapay-zeka
+
+  ### Military-Grade Kubernetes Services
+  Description: Specialized training and services for deploying Kubernetes under strict security standards.
+  Link: https://www.vebende.com.tr/askeri-stadartlarda-kubernetes-hizmetleri
+
+  ### ASP.NET Core MVC — Professional
+  Description: Full-stack ASP.NET Core MVC training covering Razor views, controllers and production deployment.
+  Link: https://www.vebende.com.tr/aspnet-core-mvc
+
+  ### Legal / Disclosure Text
+  Description: Informational page with legal disclosures and explanatory text.
+  Link: https://www.vebende.com.tr/aydinlatma-metni
+
+  ### Blockchain — Advanced Training
+  Description: Advanced blockchain training covering protocols, smart contracts and enterprise uses.
+  Link: https://www.vebende.com.tr/block-chain-ileri-egitimi
+
+  ### Blockchain — Solidity & Smart Contracts
+  Description: Practical smart contract development, security audits and deployment on EVM chains.
+  Link: https://www.vebende.com.tr/block-chain-solidity-contract
+
+  ### Blockchain — Fundamentals
+  Description: Introductory blockchain concepts, consensus algorithms and business use-cases.
+  Link: https://www.vebende.com.tr/block-chain-temel-egitimi
+
+  ### Cookie Policy
+  Description: Site cookie policy, usage and privacy details.
+  Link: https://www.vebende.com.tr/cerez-politikasi
+
+  ### CKA — Certified Kubernetes Administrator Prep
+  Description: Exam-focused, hands-on CKA preparation covering cluster administration and troubleshooting.
+  Link: https://www.vebende.com.tr/cka
+
+  ### CKAD — Certified Kubernetes Application Developer Prep
+  Description: Application-focused Kubernetes training for CKAD certification readiness.
+  Link: https://www.vebende.com.tr/ckad
+
+  ### CKS — Certified Kubernetes Security Specialist Prep
+  Description: Kubernetes security training covering runtime security, network policies and image scanning.
+  Link: https://www.vebende.com.tr/cks
+
+  ### Cloud Design Patterns
+  Description: Reusable cloud-native architecture patterns for resilience, caching and multi-tenancy.
+  Link: https://www.vebende.com.tr/cloud-design-patterns
+
+  ### Cluster Systems — Log & Monitoring Services
+  Description: Training and services for centralized logging, monitoring and incident response in clusters.
+  Link: https://www.vebende.com.tr/cluster-sistemlerde-log-monitoring-hizmetleri
+
+  ### Cluster Systems — Metrics Services
+  Description: Design and implementation of cluster metrics collection and alerting using Prometheus and related tools.
+  Link: https://www.vebende.com.tr/cluster-sistemlerde-metrik-hizmetleri
+
+  ### CompTIA Linux+
+  Description: Linux administration and certification prep covering shell, networking and security.
+  Link: https://www.vebende.com.tr/comptia-linux-plus
+
+  ### C++
+  Description: General C++ training covering language fundamentals and advanced features.
+  Link: https://www.vebende.com.tr/cplusplus
+
+  ### C# Microservices
+  Description: Building microservices with C#, .NET Core and associated deployment patterns.
+  Link: https://www.vebende.com.tr/csharp-microservis-yazilimlari
+
+  ### DevOps Project Management
+  Description: DevOps-aligned project management methodologies and practices for delivery teams.
+  Link: https://www.vebende.com.tr/dev-ops-proje-yonetimi
+
+  ### DevSecOps
+  Description: Secure development lifecycle integration, security gates and organizational adoption of DevSecOps.
+  Link: https://www.vebende.com.tr/devsecops
+
+  ### DevSecOps Services
+  Description: Consulting and services for integrating security into development pipelines.
+  Link: https://www.vebende.com.tr/devsecops-hizmetleri
+
+  ### DevSecOps Corporate Awareness Seminars
+  Description: Awareness seminars for executive and developer audiences on DevSecOps practices.
+  Link: https://www.vebende.com.tr/devsecops-kurumsal-farkindalik-seminerleri
+
+  ### Digital Finance & Web3 Academy
+  Description: Programs covering decentralized finance, DAOs, smart contracts and NFTs.
+  Link: https://www.vebende.com.tr/digital-finans-web3-akademisi-dao-smart-contract-nft
+
+  ### .NET + Apache Kafka Integration
+  Description: Training on integrating .NET applications with Apache Kafka and stream processing.
+  Link: https://www.vebende.com.tr/dotnet-apache-kafka
+
+  ### EF Core
+  Description: Entity Framework Core training for ORM usage, migrations and performance tuning.
+  Link: https://www.vebende.com.tr/efcore
+
+  ### Training Format
+  Description: Description of training formats, delivery styles and logistics.
+  Link: https://www.vebende.com.tr/egitim-formatimiz
+
+  ### ELK Stack
+  Description: Elasticsearch, Logstash and Kibana training for search and observability.
+  Link: https://www.vebende.com.tr/elk-stack
+
+  ### Embedded C++ (device programming)
+  Description: Embedded C++ course for resource-constrained devices and real-time programming.
+  Link: https://www.vebende.com.tr/embedded-c-plus-plus
+
+  ### Embedded Linux
+  Description: Building and maintaining embedded Linux systems, kernel configuration and Yocto.
+  Link: https://www.vebende.com.tr/embedded-linux
+
+  ### Software Architectures for Energy Distribution Companies
+  Description: Architecture patterns and solutions tailored for energy distribution companies.
+  Link: https://www.vebende.com.tr/enerji-dagitim-sirketlerine-yazilim-mimarileri
+
+  ### FDD Project Management
+  Description: Feature-driven development and project delivery methodologies.
+  Link: https://www.vebende.com.tr/fdd-proje-yonetimi
+
+  ### Generative AI Modeling
+  Description: Practical modeling, fine-tuning and evaluation for generative AI models.
+  Link: https://www.vebende.com.tr/generative-ai-modelleme
+
+  ### Privacy Policy
+  Description: Site privacy policy and data handling details.
+  Link: https://www.vebende.com.tr/gizlilik-politikasi
+
+  ### Go — Microservices
+  Description: Building microservices using Go including concurrency and testing patterns.
+  Link: https://www.vebende.com.tr/go-microservis-yazilimlari
+
+  ### Google Cloud Certified Tracks
+  Description: Preparation tracks and labs for Google Cloud certification paths.
+  Link: https://www.vebende.com.tr/google-cloud-certified
+
+  ### Google Cloud — DevOps Engineer
+  Description: Training aligned with Google Cloud DevOps Engineer certification.
+  Link: https://www.vebende.com.tr/google-cloud-certified-devops-engineer
+
+  ### Google SRE
+  Description: Site reliability engineering practices and operational training.
+  Link: https://www.vebende.com.tr/google-sre
+
+  ### Grafana & Observability
+  Description: Observability training using Prometheus, Grafana and related tooling.
+  Link: https://www.vebende.com.tr/grafana-stack
+
+  ### Secure Software Development (DevSecOps)
+  Description: Secure coding, dependency scanning and CI integration for secure development.
+  Link: https://www.vebende.com.tr/guvenli-yazilim-gelistirme
+
+  ### Hackathon Format
+  Description: Format, judging criteria and logistics for hackathons and innovation events.
+  Link: https://www.vebende.com.tr/hackatlon-formatimiz
+
+  ### About Us
+  Description: Company background, mission and team information.
+  Link: https://www.vebende.com.tr/hakkimizda
+
+  ### Hybrid Cloud Security
+  Description: Security best practices for hybrid cloud deployments including identity and data protection.
+  Link: https://www.vebende.com.tr/hibrit-bulut-ortamlarinda-siber-guvenlik
+
+  ### IaC Deployment Services
+  Description: Infrastructure-as-Code workshops and secure state management with Terraform and Ansible.
+  Link: https://www.vebende.com.tr/iac-deployment-hizmetleri
+
+  ### IaC Corporate Awareness Seminars
+  Description: Executive and technical awareness seminars for Infrastructure-as-Code adoption.
+  Link: https://www.vebende.com.tr/iac-kurumsal-farkindalik-seminerleri
+
+  ### Contact
+  Description: Contact and inquiry page for services and trainings.
+  Link: https://www.vebende.com.tr/iletisim
+
+  ### IoT & Embedded Systems
+  Description: End-to-end IoT training covering device software, connectivity and backend integration.
+  Link: https://www.vebende.com.tr/iot-embedded-system
+
+  ### Business Analytics
+  Description: Business intelligence and analytics training focused on operational decision support.
+  Link: https://www.vebende.com.tr/is-analitigi
+
+  ### AI for Workforce Management
+  Description: AI applications for workforce planning, scheduling and optimization.
+  Link: https://www.vebende.com.tr/is-gucu-yonetiminde-yapay-zeka-egitimi
+
+  ### Partnerships
+  Description: Corporate partnerships and collaboration opportunities.
+  Link: https://www.vebende.com.tr/is-ortakliklarimiz
+
+  ### Java
+  Description: Java language training and fundamentals.
+  Link: https://www.vebende.com.tr/java
+
+  ### Java Spring — Microservices
+  Description: Spring Boot microservice architecture, cloud-native patterns and resilience.
+  Link: https://www.vebende.com.tr/java-spring-microservis-yazilimlari
+
+  ### Public Sector AI Applications
+  Description: AI design and governance for municipal and public sector services.
+  Link: https://www.vebende.com.tr/kamu-alaninda-yapay-zeka-uygulamalari-egitimi
+
+  ### Identity Theft Prevention
+  Description: Training on identity theft attack prevention and detection.
+  Link: https://www.vebende.com.tr/kimlik-avi-saldirisi-onleme
+
+  ### Code Quality & Measurement
+  Description: Methods and tools for measuring code quality and engineering metrics.
+  Link: https://www.vebende.com.tr/kod-kalite-ve-olcumleme
+
+  ### Kubernetes Security Analysis Services
+  Description: Assessment and hardening services for Kubernetes clusters.
+  Link: https://www.vebende.com.tr/kubernetes-guvenlik-analizi-hizmetleri
+
+  ### Kubernetes Corporate Awareness Seminars
+  Description: Seminars for executives and technical leads on adopting Kubernetes.
+  Link: https://www.vebende.com.tr/kubernetes-kurumsal-farkindalik-seminerleri
+
+  ### Kubernetes — Microservice Loki Pattern
+  Description: Training covering logging patterns with Loki in microservice architectures.
+  Link: https://www.vebende.com.tr/kubernetes-microservis-loki
+
+  ### Kubernetes Network Policy
+  Description: Implementing network policies for secure microservice communication.
+  Link: https://www.vebende.com.tr/kubernetes-network-policy
+
+  ### Imprint
+  Description: Legal imprint and site credits.
+  Link: https://www.vebende.com.tr/kunye
+
+  ### Corporate AI & Data-Driven Decision Support Systems
+  Description: Design and implementation of enterprise AI-driven decision support systems.
+  Link: https://www.vebende.com.tr/kurumsal-ai-data-driven-karar-destek-sistemleri
+
+  ### Corporate NLP Training
+  Description: NLP applications and pipelines tailored for enterprise use-cases.
+  Link: https://www.vebende.com.tr/kurumsal-nlp-egitimi
+
+  ### Data Deletion Policy (KVKK)
+  Description: Data disposal and retention policies (KVKK compliance).
+  Link: https://www.vebende.com.tr/kvkk-imha-politikasi
+
+  ### KVKK Policy
+  Description: Personal data protection policy and compliance information.
+  Link: https://www.vebende.com.tr/kvkk-politikasi
+
+  ### Machine Learning Algorithms
+  Description: Core ML algorithms training and applied examples.
+  Link: https://www.vebende.com.tr/makine-ogrenmesi-algoritmalari
+
+  ### Microsoft Power Apps — No-Code
+  Description: Low-code / no-code application development using Power Apps.
+  Link: https://www.vebende.com.tr/microsoft-power-apps-no-code
+
+  ### Mobile Development Services
+  Description: Mobile software production and consultancy services.
+  Link: https://www.vebende.com.tr/mobile-yazilim-uretimi-hizmetlerimiz
+
+  ### Monitoring & Security for SRE/DevOps Teams
+  Description: Training for SRE/DevOps teams focusing on monitoring and security practices.
+  Link: https://www.vebende.com.tr/monitoring-sre-devops-ekipleri-icin-siber-guvenlik
+
+  ### Oracle Database Enterprise Solutions
+  Description: Oracle enterprise database architecture and optimization training.
+  Link: https://www.vebende.com.tr/oracle-database-enterprise-solution
+
+  ### Blog / Posts
+  Description: Centralized blog and article listing.
+  Link: https://www.vebende.com.tr/post
+
+  ### PostgreSQL
+  Description: PostgreSQL training covering performance, indexing and replication.
+  Link: https://www.vebende.com.tr/postgresql
+
+  ### Project Development Methods Seminar
+  Description: Seminar on software project development methodologies and practices.
+  Link: https://www.vebende.com.tr/proje-gelistirme-yontemleri-semineri
+
+  ### Prometheus Certified Associate
+  Description: Prometheus monitoring certification prep and hands-on labs.
+  Link: https://www.vebende.com.tr/prometheus-certified-associate
+
+  ### Prometheus & Grafana
+  Description: Monitoring and visualization using Prometheus and Grafana.
+  Link: https://www.vebende.com.tr/prometheus-grafana
+
+  ### Prompt Engineering
+  Description: Practical techniques for prompt design and evaluation for LLMs.
+  Link: https://www.vebende.com.tr/prompt-engineering
+
+  ### Python Microservices
+  Description: Building microservices using Python frameworks and deployment patterns.
+  Link: https://www.vebende.com.tr/python-microservis-yazilimlari
+
+  ### Python — Data Preparation for AI (Zero to Peak)
+  Description: Data preparation pipeline training for AI projects from basics to production-ready.
+  Link: https://www.vebende.com.tr/python-sifirdan-zirveye-ai-veri-hazirlama-egitimi
+
+  ### Quantum Programming
+  Description: Introductory quantum programming concepts and frameworks.
+  Link: https://www.vebende.com.tr/quantum-programlama
+
+  ### RAD Model Project Management
+  Description: Rapid Application Development (RAD) project management methodologies.
+  Link: https://www.vebende.com.tr/rad-model-proje-yonetimi
+
+  ### Red Hat Corporate Awareness Seminars
+  Description: Red Hat product awareness and enterprise adoption seminars.
+  Link: https://www.vebende.com.tr/red-hat-kurumsal-farkindalik-seminerleri
+
+  ### Red Hat OpenShift Cluster Services
+  Description: Managed OpenShift cluster services and operations training.
+  Link: https://www.vebende.com.tr/red-hat-open-shift-cluster-hizmetleri
+
+  ### Red Hat Enterprise Linux Training
+  Description: RHEL administration, security and optimization courses.
+  Link: https://www.vebende.com.tr/redhat-enterprise-linux-egitimi
+
+  ### Red Hat OpenShift Virtualization Training
+  Description: Virtualization and container workloads on OpenShift.
+  Link: https://www.vebende.com.tr/redhat-openshift-sanallastirma-egitimi
+
+  ### Seminar Format
+  Description: Overview of seminar formats and logistics.
+  Link: https://www.vebende.com.tr/seminer-formatimiz
+
+  ### Corporate Cybersecurity Awareness Seminars
+  Description: Organization-wide cybersecurity awareness programs.
+  Link: https://www.vebende.com.tr/siber-guvenlik-kurumsal-farkindalik-seminerleri
+
+  ### Ansible — From Zero to Mastery
+  Description: Configuration management and automation using Ansible.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-ansible
+
+  ### Apache Spark — From Zero to Mastery
+  Description: Big data processing with Apache Spark and cluster deployment.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-apache-spark
+
+  ### Async/Await in .NET — From Zero to Mastery
+  Description: Asynchronous programming in .NET with practical patterns and performance tips.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-async-await
+
+  ### Disaster Recovery — From Zero to Mastery
+  Description: Designing disaster recovery plans and DR readiness testing.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-disaster-recovery
+
+  ### Docker Containerization — From Zero to Mastery
+  Description: Container fundamentals, image lifecycle and registries.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-dockerla-sanallastirma
+
+  ### Domain-Driven Design (DDD) — From Zero to Mastery
+  Description: DDD principles, tactical/strategic design and implementation patterns.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-domain-driven-design-ddd
+
+  ### Git & GitHub Workflow — From Zero to Mastery
+  Description: Git best practices, branching strategies and GitHub Actions.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-git-github-workflow
+
+  ### GitOps — From Zero to Mastery
+  Description: Declarative infrastructure and GitOps workflows for continuous delivery.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-gitops
+
+  ### Hadoop — From Zero to Mastery
+  Description: Big data ecosystem training with Hadoop and related tooling.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-hadoop
+
+  ### HAProxy — From Zero to Mastery
+  Description: Load balancing and proxy configuration with HAProxy.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-haproxy
+
+  ### IIS & Beyond (.NET Core) — From Zero to Mastery
+  Description: Hosting .NET apps on IIS and advanced deployment techniques.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-iis-dotnet-core-otesi
+
+  ### Istio Service Mesh — From Zero to Mastery
+  Description: Service mesh concepts, traffic management and security with Istio.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-istio-service-mesh
+
+  ### Kubernetes Calico — From Zero to Mastery
+  Description: Calico networking and policy enforcement for Kubernetes clusters.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-kubernetes-calico
+
+  ### Kubernetes Bootcamp — From Zero to Mastery
+  Description: Comprehensive Kubernetes bootcamp covering cluster operation and security.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-kubernetes-egitimi
+
+  ### Kubernetes Flannel — From Zero to Mastery
+  Description: Flannel CNI and cluster networking fundamentals.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-kubernetes-flannel
+
+  ### Kubernetes Harbor — From Zero to Mastery
+  Description: Using Harbor as a secure container registry in Kubernetes workflows.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-kubernetes-harbor
+
+  ### Kubernetes Helm — From Zero to Mastery
+  Description: Package management and Helm best practices for deploying apps.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-kubernetes-helm
+
+  ### kubectl — From Zero to Mastery
+  Description: Mastering kubectl commands and operational troubleshooting.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-kubernetes-kubctl
+
+  ### Kubernetes RBAC & PBAC — From Zero to Mastery
+  Description: Role-based access control and policy-backed access control patterns.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-kubernetes-rbac-pbac
+
+  ### Kubernetes Terraform — From Zero to Mastery
+  Description: Provisioning Kubernetes clusters and infrastructure with Terraform.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-kubernetes-terraform
+
+  ### Kubernetes Trivy — From Zero to Mastery
+  Description: Container image vulnerability scanning and remediation with Trivy.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-kubernetes-trivy
+
+  ### NGINX — From Zero to Mastery
+  Description: NGINX configuration, reverse proxying and performance tuning.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-nginx
+
+  ### OWASP Top 10 — From Zero to Mastery
+  Description: OWASP Top 10 security risks and secure coding practices.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-owasp-top-10
+
+  ### PMP — From Zero to Mastery
+  Description: PMP certification preparation and practical project governance.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-pmp
+
+  ### Rancher — From Zero to Mastery
+  Description: Managing Kubernetes clusters with Rancher and multi-cluster operations.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-rancher
+
+  ### SAFe — From Zero to Mastery
+  Description: Scaled Agile Framework training for enterprise agile adoption.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-safe
+
+  ### Cybersecurity Bootcamp — From Zero to Mastery
+  Description: Intensive cybersecurity bootcamp focusing on defensive practices and secure development.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-siber-guvenlik
+
+  ### SonarQube & Code Security — From Zero to Mastery
+  Description: Static analysis and code security best practices with SonarQube.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-sonarqube-kod-guvenligi
+
+  ### Traefik — From Zero to Mastery
+  Description: Dynamic ingress routing and Let's Encrypt automation using Traefik.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-traefik
+
+  ### High-Traffic Banking Projects — From Zero to Mastery
+  Description: Best practices for architecting high-traffic banking systems and resilience patterns.
+  Link: https://www.vebende.com.tr/sifirdan-zirveye-yuksek-trafikli-bankacilik-projeleri
+
+  ### FAQ (Sıkça Sorulan Sorular)
+  Description: Frequently asked questions about trainings, logistics and service delivery.
+  Link: https://www.vebende.com.tr/sikca-sorulan-sorular
+
+  ### SysAdmin Security Training
+  Description: Security training tailored for system and network administrators.
+  Link: https://www.vebende.com.tr/sistem-ag-guvenlik-ekipleri-icin-siber-guvenlik
+
+  ### CI/CD Training for SysAdmins
+  Description: CI/CD principles and tooling for system administrators supporting deployments.
+  Link: https://www.vebende.com.tr/sistem-yoneticileri-icin-ci-cd-egitimi
+
+  ### Sitemap (index)
+  Description: Sitemap index and navigation.
+  Link: https://www.vebende.com.tr/sitemap
+
+  ### SQL Server
+  Description: SQL Server training focused on performance, high-availability and administration.
+  Link: https://www.vebende.com.tr/sqlserver
+
+  ### Continuous Monitoring & Intervention Services
+  Description: Managed monitoring and incident intervention services.
+  Link: https://www.vebende.com.tr/surekli-izleme-mudahale-hizmetleri
+
+  ### Organization-wide Cybersecurity Training
+  Description: Training programs tailored for all employees to raise cybersecurity awareness.
+  Link: https://www.vebende.com.tr/tum-kurum-calisanlarina-siber-guvenlik-egitimi
+
+  ### Turquality Program Overview
+  Description: Turquality-related corporate modernization programs and training tracks.
+  Link: https://www.vebende.com.tr/turquality
+
+  ### Turquality — DevSecOps & OWASP Secure Coding
+  Description: Turquality-aligned secure coding and DevSecOps training.
+  Link: https://www.vebende.com.tr/turquality/turquality-devsecops-owasp-guvenli-kod-egitimi
+
+  ### Turquality — Industrial AI & Data Analytics
+  Description: Industrial AI and analytics training aligned with Turquality modernization.
+  Link: https://www.vebende.com.tr/turquality/turquality-endustriyel-yapay-zeka-veri-analitigi
+
+  ### Turquality — Kubernetes Cloud Infrastructure Training
+  Description: Kubernetes and cloud infrastructure training tailored for Turquality programs.
+  Link: https://www.vebende.com.tr/turquality/turquality-kubernetes-bulut-altyapi-egitimi
+
+  ### Turquality — Kubernetes & Cloud-Native Solutions
+  Description: Enterprise cloud-native solutions and Kubernetes best practices for Turquality.
+  Link: https://www.vebende.com.tr/turquality/turquality-kubernetes-ve-cloud-native-altyapi-cozumleri
+
+  ### Turquality — Corporate Academy & Tech Trainings
+  Description: Corporate academy programs and technology trainings under Turquality.
+  Link: https://www.vebende.com.tr/turquality/turquality-kurumsal-akademi-ve-teknoloji-egitimleri
+
+  ### Turquality — Enterprise Microservice Modernization
+  Description: Microservice architecture modernization for enterprises within Turquality.
+  Link: https://www.vebende.com.tr/turquality/turquality-kurumsal-mikroservis-mimari-modernizasyon
+
+  ### Turquality — SOC Operations Training
+  Description: Security Operations Center (SOC) operations and training under Turquality.
+  Link: https://www.vebende.com.tr/turquality/turquality-kurumsal-soc-operasyonlari-egitimi
+
+  ### Turquality — Corporate AI Training
+  Description: Enterprise AI training programs aligned with Turquality requirements.
+  Link: https://www.vebende.com.tr/turquality/turquality-kurumsal-yapay-zeka-egitimi
+
+  ### Turquality — AI & AGI Strategies
+  Description: Strategic AI and AGI program advisory and training for executives.
+  Link: https://www.vebende.com.tr/turquality/turquality-kurumsal-yapay-zeka-ve-agi-stratejileri
+
+  ### Turquality — Software Architecture & Modernization
+  Description: Enterprise software architecture modernization tracks for Turquality.
+  Link: https://www.vebende.com.tr/turquality/turquality-kurumsal-yazilim-mimarisi-ve-modernizasyon
+
+  ### Turquality — Cybersecurity & DevSecOps Management
+  Description: Executive-level cybersecurity and DevSecOps management training.
+  Link: https://www.vebende.com.tr/turquality/turquality-siber-guvenlik-ve-devsecops-yonetimi
+
+  ### Turquality — SonarQube & Secure Development
+  Description: SonarQube usage and secure development practices under Turquality programs.
+  Link: https://www.vebende.com.tr/turquality/turquality-sonarqube-ve-guvenli-yazilim-gelistirme
+
+  ### Turquality — Compliant Technology & Consulting Services
+  Description: Compliance-focused tech and consulting services within Turquality framework.
+  Link: https://www.vebende.com.tr/turquality/turquality-uyumlu-teknoloji-ve-danismanlik-hizmetleri
+
+  ### Turquality — AI Engineering Camp
+  Description: Intensive AI engineering camp for enterprise teams under Turquality.
+  Link: https://www.vebende.com.tr/turquality/turquality-yapay-zeka-muhendisligi-kampi
+
+  ### Turquality — Strategic Cyber Risk Management for Executives
+  Description: Executive training on strategic cyber risk management under Turquality.
+  Link: https://www.vebende.com.tr/turquality/turquality-yonetici-stratejik-siber-risk-yonetimi
+
+  ### Remote Deployed Personnel Support
+  Description: Services for remote-deployed personnel and on-demand staffing.
+  Link: https://www.vebende.com.tr/uzaktan-atanmis-personel-destegimiz
+
+  ### Remote Consultancy Support
+  Description: Remote consultancy offerings for technical projects and architecture.
+  Link: https://www.vebende.com.tr/uzaktan-danismanlik-destegimiz
+
+  ### Remote Monitoring & Intervention Support
+  Description: Continuous remote monitoring and intervention services.
+  Link: https://www.vebende.com.tr/uzaktan-izleme-mudahale-destegimiz
+
+  ### Long-Term On-site Personnel Support
+  Description: Long-term on-site staffing and support services.
+  Link: https://www.vebende.com.tr/uzun-sureli-yerinde-personel-destegimiz
+
+  ### V-Model Project Management
+  Description: V-model systems development lifecycle and project governance training.
+  Link: https://www.vebende.com.tr/v-model-proje-yonetimi
+
+  ### Web3 BlockChain Developer Intensive
+  Description: Intensive developer training for Web3 and blockchain technologies.
+  Link: https://www.vebende.com.tr/web3-block-chain-gelistirici-yogun-egitim
+
+  ### Workshop Formats
+  Description: Workshop design, formats and sample agendas for technical workshops.
+  Link: https://www.vebende.com.tr/workshop-formatimiz
+
+  ### Workshop — Kubernetes Secure Coding / OWASP
+  Description: Practical workshop combining Kubernetes operations with secure coding (OWASP).
+  Link: https://www.vebende.com.tr/workshop-kubernetes-guvenli-kodlama-owasp
+
+  ### Workshop — Kubernetes Advanced Operations
+  Description: Advanced operational practices and incident response for Kubernetes clusters.
+  Link: https://www.vebende.com.tr/workshop-kubernetes-ileri-duzey-operasyonlar
+
+  ### Workshop — Enterprise Cluster Management
+  Description: Enterprise-grade cluster management workshops for scale and governance.
+  Link: https://www.vebende.com.tr/workshop-kubernetes-kurumsal-duzey-kume-yonetimi
+
+  ### Workshop — Kubernetes Prometheus/Grafana/Alertmanager
+  Description: Observability workshop focusing on Prometheus, Grafana and Alertmanager integrations.
+  Link: https://www.vebende.com.tr/workshop-kubernetes-prometheus-grafana-alert-manager
+
+  ### Workshop — End-to-End DevSecOps for Kubernetes
+  Description: From code to production DevSecOps practices in Kubernetes environments.
+  Link: https://www.vebende.com.tr/workshop-kubernetes-uctan-uca-devsecops
+
+  ### Workshop — AI-Powered Alarm Management in Kubernetes
+  Description: Integrating AI for intelligent alerting and alarm management in Kubernetes stacks.
+  Link: https://www.vebende.com.tr/workshop-kubernetes-yapay-zeka-destekli-alarm-yonetimi
+
+  ### Workshop — Advanced Linux Infrastructure Management
+  Description: Advanced Linux infrastructure operations, tuning and kernel-level topics.
+  Link: https://www.vebende.com.tr/workshop-linux-ileri-duzey-alt-yapi-yonetimi
+
+  ### Workshop — Red Hat Advanced Virtualization
+  Description: Red Hat virtualization and advanced platform workshops.
+  Link: https://www.vebende.com.tr/workshop-redhat-ileri-duzey-sanallastirma
+
+  ### WSO2
+  Description: API management and integration platform training using WSO2.
+  Link: https://www.vebende.com.tr/wso2
+
+  ### XAI — Explainable AI
+  Description: Explainable AI techniques and interpretability workshops.
+  Link: https://www.vebende.com.tr/xai
+
+  ### AI-Assisted Presentation Preparation
+  Description: Using AI to craft and enhance presentations and slide decks.
+  Link: https://www.vebende.com.tr/yapay-zeka-destekli-sunum-hazirlama
+
+  ### AI Image Processing Services
+  Description: Consultancy and training for AI-based image processing solutions.
+  Link: https://www.vebende.com.tr/yapay-zeka-goruntu-isleme-yazilim-hizmetlerimiz
+
+  ### AI Bootcamp Level 1
+  Description: Introductory ML bootcamp for foundational skills and small projects.
+  Link: https://www.vebende.com.tr/yapay-zeka-kampi-seviye-1
+
+  ### AI Bootcamp Level 2
+  Description: Intermediate bootcamp focused on model training workflows and deployment.
+  Link: https://www.vebende.com.tr/yapay-zeka-kampi-seviye-2
+
+  ### AI Bootcamp Level 3
+  Description: Advanced bootcamp on production ML operations and model optimization.
+  Link: https://www.vebende.com.tr/yapay-zeka-kampi-seviye-3
+
+  ### RAG & Fine-Tune Seminars
+  Description: Retrieval-augmented generation and model fine-tuning seminars for knowledge apps.
+  Link: https://www.vebende.com.tr/yapay-zekada-rag-fine-tune-seminerleri
+
+  ### AI for Smart Cities Seminar
+  Description: Applications of AI for urban systems, traffic and utilities management.
+  Link: https://www.vebende.com.tr/yapay-zekayla-akilli-sehirler-semineri
+
+  ### AI for Customer Experience
+  Description: Improving CX using AI, personalization and conversational systems.
+  Link: https://www.vebende.com.tr/yapay-zekayla-musteri-deneyimi-gelistirme
+
+  ### IT Helpdesk Security Training
+  Description: Cybersecurity training designed specifically for IT helpdesk and support teams.
+  Link: https://www.vebende.com.tr/yardim-masasi-it-destek-ekipleri-icin-siber-guvenlik
+
+  ### Application Security Testing Services
+  Description: Application security testing services and training for secure code practices.
+  Link: https://www.vebende.com.tr/yazilim-guvenlik-test-hizmetleri
+
+  ### Software Production Services
+  Description: End-to-end software production and delivery services.
+  Link: https://www.vebende.com.tr/yazilim-uretimi-hizmetlerimiz
+
+  ### CI/CD Training for Developers
+  Description: Developer-focused CI/CD best practices and pipeline automation training.
+  Link: https://www.vebende.com.tr/yazilimcilar-icin-ci-cd-egitimi
+
+  ### Developer Cybersecurity Training
+  Description: Security training aimed at software developers covering secure coding and threat modeling.
+  Link: https://www.vebende.com.tr/yazilimcilar-icin-siber-guvenlik
+
+  ### Executive Cybersecurity Training
+  Description: Cybersecurity training for senior decision-makers and executives.
+  Link: https://www.vebende.com.tr/yoneticiler-ust-duzey-karar-vericiler-icin-siber-guvenlik
+
+  ### Cybersecurity for Managers
+  Description: Tailored cybersecurity program for managers and team leads.
+  Link: https://www.vebende.com.tr/yoneticilere-siber-guvenlik-egitimi
+
+  ### High-Security Application Development
+  Description: Practices and patterns for building high-security application deployments.
+  Link: https://www.vebende.com.tr/yuksek-guvenlikli-kod-uygulama-gelistirme
+
+  ### High-Security Software Development Seminars
+  Description: Seminars focused on building and managing high-security software projects.
+  Link: https://www.vebende.com.tr/yuksek-guvenlikli-yazilim-gelistirme-seminerleri
+
+  <!-- End detailed entries -->
+
+</div>
+
+## Vebende Akademi — Full Sitemap (from sitemap.xml) — English list
+
+Below is a generated English list of all URLs from `www.vebendeakademi.com.tr/sitemap.xml`. Each entry contains the training name, a short English description, and the canonical link.
+
+- `Agentic AI` — Training on creating and orchestrating autonomous AI agents. — https://www.vebendeakademi.com.tr/training/agentic-ai
+- `AGI` — Overview of AGI concepts and strategic implications. — https://www.vebendeakademi.com.tr/training/agi
+- `AI Adoption` — Practical guidance for adopting AI in organizations (pilots, ROI, change management). — https://www.vebendeakademi.com.tr/training/ai-adoption
+- `AI Engineering Camp` — Intensive hands-on engineering camp for end-to-end AI systems and MLOps. — https://www.vebendeakademi.com.tr/training/ai-engineering-camp
+- `AI Governance Scenarios` — Frameworks and scenario planning for responsible AI governance. — https://www.vebendeakademi.com.tr/training/ai-governance-scenarios
+- `AI KPI` — How to define and measure success metrics for AI initiatives and products. — https://www.vebendeakademi.com.tr/training/ai-kpi
+- `AI Leadership Cases` — Executive case studies on AI-driven transformation and leadership decisions. — https://www.vebendeakademi.com.tr/training/ai-leadership-cases
+- `AI Office` — Building AI teams and operating models within organizations. — https://www.vebendeakademi.com.tr/training/ai-office
+- `AI Optimization` — Techniques for optimizing models and inference in production. — https://www.vebendeakademi.com.tr/training/ai-optimization
+- `AI Revolution Seminar` — High-level seminar on AI trends, opportunities and strategic impact. — https://www.vebendeakademi.com.tr/training/ai-revolution-seminar
+- `AI Security & Compliance` — Security and compliance considerations for deploying AI systems. — https://www.vebendeakademi.com.tr/training/ai-security-compliance
+- `AI Strategies` — Crafting organizational AI strategies and roadmaps. — https://www.vebendeakademi.com.tr/training/ai-strategies
+- `AI Transformation Leader` — Leadership program for driving AI transformation in enterprises. — https://www.vebendeakademi.com.tr/training/ai-transformation-leader
+- `Air Gap Systems Seminar` — Seminar on design and operation of air-gapped secure systems. — https://www.vebendeakademi.com.tr/training/air-gap-systems-seminar
+- `Arduino IoT` — Hands-on IoT prototyping with Arduino and edge connectivity. — https://www.vebendeakademi.com.tr/training/arduino-iot
+- `Argo CD` — GitOps workflows and Argo CD for continuous delivery and multi-cluster management. — https://www.vebendeakademi.com.tr/training/argo-cd
+- `AWS Advanced Networking` — Deep-dive into AWS networking and hybrid connectivity patterns. — https://www.vebendeakademi.com.tr/training/aws-advanced-networking
+- `AWS Cloud Practitioner` — Core AWS cloud service concepts for business and technical stakeholders. — https://www.vebendeakademi.com.tr/training/aws-cloud-practitioner
+- `AWS Data Analytics Specialty` — AWS data analytics services and certification-focused labs. — https://www.vebendeakademi.com.tr/training/aws-data-analytics-specialty
+- `AWS Database Specialty` — Database design and optimization on AWS. — https://www.vebendeakademi.com.tr/training/aws-database-specialty
+- `AWS Developer Associate` — Developer-focused training for building and deploying on AWS. — https://www.vebendeakademi.com.tr/training/aws-developer-associate
+- `AWS DevOps Professional` — Advanced CI/CD and infrastructure automation on AWS. — https://www.vebendeakademi.com.tr/training/aws-devops-professional
+- `AWS Machine Learning Specialty` — AWS ML services and production model workflows. — https://www.vebendeakademi.com.tr/training/aws-machine-learning-specialty
+- `AWS Security Specialty` — Security best practices for AWS environments. — https://www.vebendeakademi.com.tr/training/aws-security-specialty
+- `AWS Solutions Architect` — Designing resilient solutions on AWS and certification prep. — https://www.vebendeakademi.com.tr/training/aws-solutions-architect
+- `AWS Solutions Architect Professional` — Advanced architecture patterns and exam preparation. — https://www.vebendeakademi.com.tr/training/aws-solutions-architect-professional
+- `AWS SysOps Associate` — Operational management and monitoring of AWS workloads. — https://www.vebendeakademi.com.tr/training/aws-sysops-associate
+- `Azure Administrator` — Fundamentals of Azure administration, identity, and infrastructure management. — https://www.vebendeakademi.com.tr/training/azure-administrator
+- `Azure Data Engineer` — Data engineering pipelines and services on Azure. — https://www.vebendeakademi.com.tr/training/azure-data-engineer
+- `Azure Data Fundamentals` — Basics of Azure data services and analytics. — https://www.vebendeakademi.com.tr/training/azure-data-fundamentals
+- `Azure Database Administrator` — Database administration and HA on Azure. — https://www.vebendeakademi.com.tr/training/azure-database-administrator
+- `Azure Developer` — Building cloud-native applications with Azure services. — https://www.vebendeakademi.com.tr/training/azure-developer
+- `Azure DevOps Engineer` — DevOps practices using Azure DevOps and pipelines. — https://www.vebendeakademi.com.tr/training/azure-devops-engineer
+- `Azure Fundamentals` — Core Azure and cloud fundamentals. — https://www.vebendeakademi.com.tr/training/azure-fundamentals
+- `Azure Network Engineer` — Networking design and security on Azure. — https://www.vebendeakademi.com.tr/training/azure-network-engineer
+- `Azure Solutions Architect` — Architecting enterprise solutions on Azure. — https://www.vebendeakademi.com.tr/training/azure-solutions-architect
+- `Blockchain Development` — Smart contract development and distributed ledger technology. — https://www.vebendeakademi.com.tr/training/blockchain-development
+- `Blockchain Security` — Security best practices and audits for blockchain systems. — https://www.vebendeakademi.com.tr/training/blockchain-security
+- `Calico` — Kubernetes networking and policy enforcement with Calico. — https://www.vebendeakademi.com.tr/training/calico
+- `Career Roadmap Seminar` — Career planning and skills development for tech professionals. — https://www.vebendeakademi.com.tr/training/career-roadmap-seminar
+- `CGOA` — Certification and technical course (CGOA). — https://www.vebendeakademi.com.tr/training/cgoa
+- `CI/CD Admin` — Admin-focused CI/CD tooling and platform operation. — https://www.vebendeakademi.com.tr/training/ci-cd-admin
+- `CI/CD Dev` — Developer-focused CI/CD pipelines and automation. — https://www.vebendeakademi.com.tr/training/ci-cd-dev
+- `CICD Speed Seminar` — Improving pipeline speed and feedback loops. — https://www.vebendeakademi.com.tr/training/cicd-speed-seminar
+- `CKA` — Certified Kubernetes Administrator exam preparation and labs. — https://www.vebendeakademi.com.tr/training/cka
+- `CKAD` — Certified Kubernetes Application Developer preparation with hands-on exercises. — https://www.vebendeakademi.com.tr/training/ckad
+- `CKS` — Kubernetes security specialist training and real-world labs. — https://www.vebendeakademi.com.tr/training/cks
+- `Cloud Design Patterns` — Resilient architecture patterns for cloud-native systems. — https://www.vebendeakademi.com.tr/training/cloud-design-patterns
+- `Cloud Vision Seminar` — Executive-level cloud strategy seminar. — https://www.vebendeakademi.com.tr/training/cloud-vision-seminar
+- `CNPE` — Professional networking and certification course (CNPE). — https://www.vebendeakademi.com.tr/training/cnpe
+- `CompTIA Linux` — Linux fundamentals and CompTIA-aligned training. — https://www.vebendeakademi.com.tr/training/comptia-linux
+- `Copilot Admin` — Administration of Copilot and enterprise LLM assistants. — https://www.vebendeakademi.com.tr/training/copilot-admin
+- `Copilot Management` — Governance and management of Copilot deployments. — https://www.vebendeakademi.com.tr/training/copilot-management
+- `Copilot Studio` — Building Copilot skills and integrations with studio tools. — https://www.vebendeakademi.com.tr/training/copilot-studio
+- `Corporate SIEM Seminar` — SIEM strategy and operationalization for enterprises. — https://www.vebendeakademi.com.tr/training/corporate-siem-seminar
+- `CRSA` — Certification preparation course (CRSA). — https://www.vebendeakademi.com.tr/training/crsa
+- `Cybersecurity Architect` — Designing secure architectures and threat modeling. — https://www.vebendeakademi.com.tr/training/cybersecurity-architect
+- `DDD` — Domain-Driven Design principles and practical modeling. — https://www.vebendeakademi.com.tr/training/ddd
+- `Defense AI Seminar` — AI applications for defense and resilience scenarios. — https://www.vebendeakademi.com.tr/training/defense-ai-seminar
+- `Defense Career Seminar` — Career planning for defense-focused engineers. — https://www.vebendeakademi.com.tr/training/defense-career-seminar
+- `Defense DevOps Seminar` — DevOps practices adapted for defense projects and compliance. — https://www.vebendeakademi.com.tr/training/defense-devops-seminar
+- `Defense Processes Seminar` — Operational processes and governance for defense programs. — https://www.vebendeakademi.com.tr/training/defense-processes-seminar
+- `Defense Resilience Seminar` — Resilience engineering and continuity for defense systems. — https://www.vebendeakademi.com.tr/training/defense-resilience-seminar
+- `Defense Secure Development Seminar` — Secure development lifecycle for defense software. — https://www.vebendeakademi.com.tr/training/defense-secure-development-seminar
+- `Defense Software Seminar` — Software engineering practices for mission-critical defense systems. — https://www.vebendeakademi.com.tr/training/defense-software-seminar
+- `DeFi` — Decentralized finance concepts and technical development. — https://www.vebendeakademi.com.tr/training/defi
+- `DevOps Projects` — Hands-on DevOps project workshops and operational patterns. — https://www.vebendeakademi.com.tr/training/devops-projects
+- `DevSecOps` — Integrating security into DevOps pipelines and culture. — https://www.vebendeakademi.com.tr/training/devsecops
+- `Docker` — Containerization fundamentals and image management with Docker. — https://www.vebendeakademi.com.tr/training/docker
+- `.NET + Kafka` — Integrating .NET applications with Kafka for streaming architectures. — https://www.vebendeakademi.com.tr/training/dotnet-kafka
+- `.NET Secure` — Security best practices for .NET applications and services. — https://www.vebendeakademi.com.tr/training/dotnet-secure
+- `ELK` — ELK stack for logging, search and observability. — https://www.vebendeakademi.com.tr/training/elk
+- `Embedded Linux` — Embedded Linux development and system customization. — https://www.vebendeakademi.com.tr/training/embedded-linux
+- `Endpoint Administrator` — Managing endpoint security and administration at scale. — https://www.vebendeakademi.com.tr/training/endpoint-administrator
+- `Enrolled` — Enrollment confirmation and student dashboard page. — https://www.vebendeakademi.com.tr/training/enrolled
+- `Ethereum Contracts` — Smart contract development and security on Ethereum. — https://www.vebendeakademi.com.tr/training/ethereum-contracts
+- `Flannel` — Kubernetes networking fundamentals with Flannel CNI. — https://www.vebendeakademi.com.tr/training/flannel
+- `Future Defense Engineer Seminar` — Preparing future defense engineers for sector challenges. — https://www.vebendeakademi.com.tr/training/future-defense-engineer-seminar
+- `Future Dev Seminar` — Trends and skills for future software developers. — https://www.vebendeakademi.com.tr/training/future-dev-seminar
+- `Future Software Engineer Seminar` — Career and skill-building seminar for software engineers. — https://www.vebendeakademi.com.tr/training/future-software-engineer-seminar
+- `GCP ACE` — Google Cloud ACE certification and practical labs. — https://www.vebendeakademi.com.tr/training/gcp-ace
+- `GCP Data Engineer` — Data engineering on Google Cloud and certification prep. — https://www.vebendeakademi.com.tr/training/gcp-data-engineer
+- `GCP Database` — Database solutions and optimization on GCP. — https://www.vebendeakademi.com.tr/training/gcp-database
+- `GCP Developer` — Developing cloud-native applications on GCP. — https://www.vebendeakademi.com.tr/training/gcp-developer
+- `GCP DevOps Pro` — DevOps practices and tooling on Google Cloud. — https://www.vebendeakademi.com.tr/training/gcp-devops-pro
+- `GCP Digital Leader` — Leadership program focused on cloud strategy using GCP. — https://www.vebendeakademi.com.tr/training/gcp-digital-leader
+- `GCP ML` — Machine learning workflows and services on Google Cloud. — https://www.vebendeakademi.com.tr/training/gcp-ml
+- `GCP Network` — Networking and VPC design on Google Cloud. — https://www.vebendeakademi.com.tr/training/gcp-network
+- `GCP PCA` — Professional Cloud Architect certification preparation. — https://www.vebendeakademi.com.tr/training/gcp-pca
+- `GCP Security` — Security best practices and services on Google Cloud. — https://www.vebendeakademi.com.tr/training/gcp-security
+- `GCP SRE` — Site Reliability Engineering practices on GCP. — https://www.vebendeakademi.com.tr/training/gcp-sre
+- `GCP Workspace Admin` — Managing Google Workspace and administrative controls. — https://www.vebendeakademi.com.tr/training/gcp-workspace-admin
+- `GCUX` — User experience and platform design training. — https://www.vebendeakademi.com.tr/training/gcux
+- `Generative AI` — Hands-on generative AI modeling, fine-tuning and evaluation. — https://www.vebendeakademi.com.tr/training/generative-ai
+- `GitOps` — GitOps patterns, tooling and operational models. — https://www.vebendeakademi.com.tr/training/gitops
+- `Grafana Stack` — Observability workshops using Prometheus, Grafana and Loki. — https://www.vebendeakademi.com.tr/training/grafana-stack
+- `Hadoop & Spark` — Big data processing with Hadoop and Spark. — https://www.vebendeakademi.com.tr/training/hadoop-spark
+- `HAProxy` — Load balancing and proxy configuration with HAProxy. — https://www.vebendeakademi.com.tr/training/haproxy
+- `Harbor` — Secure container registry and governance with Harbor. — https://www.vebendeakademi.com.tr/training/harbor
+- `Hyperledger` — Enterprise blockchain platforms and Hyperledger tooling. — https://www.vebendeakademi.com.tr/training/hyperledger
+- `Identity and Access Administrator` — Identity and access management best practices and tools. — https://www.vebendeakademi.com.tr/training/identity-and-access-administrator
+- `Information Protection Administrator` — Data protection, encryption and information governance. — https://www.vebendeakademi.com.tr/training/information-protection-administrator
+- `Jenkins CI/CD` — Jenkins pipeline development and automation best practices. — https://www.vebendeakademi.com.tr/training/jenkins-cicd
+- `K8s DevOps Seminar` — Kubernetes-focused DevOps operational seminar. — https://www.vebendeakademi.com.tr/training/k8s-devops-seminar
+- `KCNA` — Kubernetes certification (KCNA) preparation. — https://www.vebendeakademi.com.tr/training/kcna
+- `KCNA+KCSA Combined` — Combined certification prep for KCNA and KCSA. — https://www.vebendeakademi.com.tr/training/kcna-kcsa-kombine
+- `kubectl` — Mastering kubectl for operations and troubleshooting. — https://www.vebendeakademi.com.tr/training/kubectl
+- `Kyverno Policy` — Policy-as-code for Kubernetes using Kyverno. — https://www.vebendeakademi.com.tr/training/kyverno-policy
+- `LFCA` — Linux Foundation Certified Associate preparation. — https://www.vebendeakademi.com.tr/training/lfca
+- `LFCE` — Linux Foundation Certified Engineer course and labs. — https://www.vebendeakademi.com.tr/training/lfce
+- `LFCS` — Linux Foundation Certified Sysadmin training. — https://www.vebendeakademi.com.tr/training/lfcs
+- `Linux DR (Disaster Recovery)` — Linux disaster recovery planning and exercises. — https://www.vebendeakademi.com.tr/training/linux-dr
+- `Log Monitoring Seminar` — Log collection, monitoring and incident analysis seminar. — https://www.vebendeakademi.com.tr/training/log-monitoring-seminar
+- `Loki` — Using Loki for scalable log aggregation in cloud-native systems. — https://www.vebendeakademi.com.tr/training/loki
+- `LPIC-1` — LPIC-1 certification preparation for Linux administrators. — https://www.vebendeakademi.com.tr/training/lpic-1
+- `LPIC-2` — Advanced Linux administration for LPIC-2. — https://www.vebendeakademi.com.tr/training/lpic-2
+- `LPIC-3` — Enterprise Linux skills for LPIC-3 certification. — https://www.vebendeakademi.com.tr/training/lpic-3
+- `LPIC-3 Mixed` — Combined LPIC-3 tracks and mixed specialization. — https://www.vebendeakademi.com.tr/training/lpic-3-mixed
+- `LPIC-3 Security` — Security specialization for LPIC-3 certification. — https://www.vebendeakademi.com.tr/training/lpic-3-security
+- `LPIC-3 VHA` — High-availability specialization for LPIC-3. — https://www.vebendeakademi.com.tr/training/lpic-3-vha
+- `Microsoft 365 Administrator` — Administering Microsoft 365 services and governance. — https://www.vebendeakademi.com.tr/training/microsoft-365-administrator
+- `Microsoft 365 Fundamentals` — Fundamentals of Microsoft 365 services. — https://www.vebendeakademi.com.tr/training/microsoft-365-fundamentals
+- `Microsoft Security Fundamentals` — Security concepts for Microsoft platforms. — https://www.vebendeakademi.com.tr/training/microsoft-security-fundamentals
+- `MLOps` — Productionizing ML: pipelines, CI/CD for models and monitoring. — https://www.vebendeakademi.com.tr/training/mlops
+- `Modern Monitoring Seminar` — Contemporary monitoring architectures and practices. — https://www.vebendeakademi.com.tr/training/modern-monitoring-seminar
+- `Modern SOC Seminar` — Security Operations Center modern practices and tooling. — https://www.vebendeakademi.com.tr/training/modern-soc-seminar
+- `Monitoring & Observability Seminar` — Observability design, telemetry and operational use-cases. — https://www.vebendeakademi.com.tr/training/monitoring-observability-seminar
+- `Monitoring Platform Design Seminar` — Designing scalable monitoring platforms. — https://www.vebendeakademi.com.tr/training/monitoring-platform-design-seminar
+- `MVC Core & EFCore` — ASP.NET Core MVC with EF Core for modern web apps. — https://www.vebendeakademi.com.tr/training/mvc-core-efcore
+- `NFT Tokenization` — Technical and economic aspects of tokenizing assets as NFTs. — https://www.vebendeakademi.com.tr/training/nft-tokenization
+- `NLP & Vector DB` — NLP integration with vector databases and semantic search. — https://www.vebendeakademi.com.tr/training/nlp-vector-db
+- `NVIDIA Associate` — NVIDIA platform fundamentals and GPU acceleration basics. — https://www.vebendeakademi.com.tr/training/nvidia-associate
+- `NVIDIA DLI` — Deep Learning Institute tracks for GPU programming. — https://www.vebendeakademi.com.tr/training/nvidia-dli
+- `NVIDIA Edge AI` — Edge AI deployment patterns using NVIDIA hardware. — https://www.vebendeakademi.com.tr/training/nvidia-edge-ai
+- `NVIDIA Professional` — Advanced NVIDIA professional training and optimization. — https://www.vebendeakademi.com.tr/training/nvidia-professional
+- `Observability` — End-to-end observability: tracing, metrics and logs. — https://www.vebendeakademi.com.tr/training/observability
+- `OPA & Gatekeeper` — Policy-as-code and admission control for Kubernetes. — https://www.vebendeakademi.com.tr/training/opa-gatekeeper
+- `OpenShift` — OpenShift platform training for operators and developers. — https://www.vebendeakademi.com.tr/training/openshift
+- `Oracle Linux OCA` — Oracle Linux certification training. — https://www.vebendeakademi.com.tr/training/oracle-linux-oca
+- `OTCA` — Operational technology certification training. — https://www.vebendeakademi.com.tr/training/otca
+- `Postgres on K8s` — Running and operating PostgreSQL on Kubernetes. — https://www.vebendeakademi.com.tr/training/postgres-k8s
+- `Power BI Data Analyst` — Power BI analytics, visualization and data modeling. — https://www.vebendeakademi.com.tr/training/power-bi-data-analyst
+- `Power Platform App Maker` — Building apps with Microsoft Power Platform for business users. — https://www.vebendeakademi.com.tr/training/power-platform-app-maker
+- `Power Platform Developer` — Developing custom solutions on Power Platform. — https://www.vebendeakademi.com.tr/training/power-platform-developer
+- `Power Platform Functional Consultant` — Functional consulting for Power Platform implementations. — https://www.vebendeakademi.com.tr/training/power-platform-functional-consultant
+- `Power Platform Fundamentals` — Core concepts of Power Platform. — https://www.vebendeakademi.com.tr/training/power-platform-fundamentals
+- `Power Platform Solution Architect` — Architecting enterprise solutions on Power Platform. — https://www.vebendeakademi.com.tr/training/power-platform-solution-architect
+- `Prometheus & Grafana Seminar` — Practical seminar on Prometheus and Grafana. — https://www.vebendeakademi.com.tr/training/prometheus-grafana-seminar
+- `Prompt Engineering` — Crafting prompts and templates for large language models. — https://www.vebendeakademi.com.tr/training/prompt-engineering
+- `Prompt Seminar` — Interactive seminar on prompt design and evaluation. — https://www.vebendeakademi.com.tr/training/prompt-seminar
+- `Python AI & Data` — Python-driven data pipelines and model workflows. — https://www.vebendeakademi.com.tr/training/python-ai-data
+- `Rancher Multi` — Managing multi-cluster Kubernetes with Rancher. — https://www.vebendeakademi.com.tr/training/rancher-multi
+- `Real-Time Systems Seminar` — Designing and operating real-time data systems. — https://www.vebendeakademi.com.tr/training/real-time-systems-seminar
+- `RH Ansible Specialist` — Red Hat Ansible Specialist certification and labs. — https://www.vebendeakademi.com.tr/training/rh-ansible-specialist
+- `RH Containers Specialist` — Container operations and certification on Red Hat platforms. — https://www.vebendeakademi.com.tr/training/rh-containers-specialist
+- `RHCA` — Red Hat Certified Architect program. — https://www.vebendeakademi.com.tr/training/rhca
+- `RHCE` — Red Hat Certified Engineer training and labs. — https://www.vebendeakademi.com.tr/training/rhce
+- `RHCSA` — Red Hat Certified System Administrator course. — https://www.vebendeakademi.com.tr/training/rhcsa
+- `Scalability Problem Seminar` — Addressing scalability challenges in modern architectures. — https://www.vebendeakademi.com.tr/training/scalability-problem-seminar
+- `SEC Seminar` — Security-focused seminar for engineers and managers. — https://www.vebendeakademi.com.tr/training/sec-seminar
+- `Secure Design Seminar` — Designing secure systems and threat modeling. — https://www.vebendeakademi.com.tr/training/secure-design-seminar
+- `Secure Dev` — Secure development practices and CI/CD security. — https://www.vebendeakademi.com.tr/training/secure-dev
+- `Security Operations Analyst` — Training for SOC analyst roles and detection engineering. — https://www.vebendeakademi.com.tr/training/security-operations-analyst
+- `Service Mesh — Istio` — Service mesh concepts and Istio traffic management. — https://www.vebendeakademi.com.tr/training/service-mesh-istio
+- `SIEM Advanced Seminar` — Advanced SIEM tuning and correlation use-cases. — https://www.vebendeakademi.com.tr/training/siem-advanced-seminar
+- `SIEM Fundamentals Seminar` — Fundamentals of SIEM operation and log analysis. — https://www.vebendeakademi.com.tr/training/siem-fundamentals-seminar
+- `SIEM & SOAR Seminar` — Integrating SIEM and SOAR for automated response. — https://www.vebendeakademi.com.tr/training/siem-soar-seminar
+- `SOC Security` — Operational SOC security training and playbook development. — https://www.vebendeakademi.com.tr/training/soc-security
+- `SQL Server` — SQL Server administration, tuning and HA strategies. — https://www.vebendeakademi.com.tr/training/sql-server
+- `SUSE SCA` — SUSE certification and management training. — https://www.vebendeakademi.com.tr/training/suse-sca
+- `SUSE SCE` — SUSE certified engineer training tracks. — https://www.vebendeakademi.com.tr/training/suse-sce
+- `Terraform` — Infrastructure-as-Code and Terraform best practices. — https://www.vebendeakademi.com.tr/training/terraform
+- `Traefik` — Ingress routing, dynamic configuration and TLS automation with Traefik. — https://www.vebendeakademi.com.tr/training/traefik
+- `Trivy` — Container image vulnerability scanning with Trivy. — https://www.vebendeakademi.com.tr/training/trivy
+- `Web3 DAO` — DAO design patterns, governance and tokenomics. — https://www.vebendeakademi.com.tr/training/web3-dao
+- `Windows Server Hybrid Administrator` — Hybrid Windows Server administration and cloud integration. — https://www.vebendeakademi.com.tr/training/windows-server-hybrid-administrator
+- `Workspace Admin` — Managing collaborative workspace platforms and administrative controls. — https://www.vebendeakademi.com.tr/training/workspace-admin
+- `Workspace Deployment` — Deployment strategies for workspace and productivity platforms. — https://www.vebendeakademi.com.tr/training/workspace-deployment
+- `XAI — Explainable AI` — Explainable AI methods, interpretability and trustworthiness. — https://www.vebendeakademi.com.tr/training/xai
+- `YeniÇağ Seminar` — Contemporary seminar series on emerging technology topics. — https://www.vebendeakademi.com.tr/training/yenicag-seminar
+- `Zabbix Monitoring Seminar` — Monitoring architectures using Zabbix for infrastructure observability. — https://www.vebendeakademi.com.tr/training/zabbix-monitoring-seminar
+- `ZCE` — Certification and exam preparation for ZCE. — https://www.vebendeakademi.com.tr/training/zce
+- `ZCP` — ZCP certification and practical labs. — https://www.vebendeakademi.com.tr/training/zcp
+- `ZCS` — ZCS certification track and specialized training. — https://www.vebendeakademi.com.tr/training/zcs
+- `ZCU` — ZCU certification training and advanced topics. — https://www.vebendeakademi.com.tr/training/zcu
+
