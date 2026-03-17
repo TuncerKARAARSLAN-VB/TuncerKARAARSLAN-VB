@@ -1,36 +1,27 @@
----
-version: 1
-generated_for: AI
-name: "Tuncer KARAARSLAN"
-title: "Software Solution Architect"
-emails:
-  - "tuncer.karaarslan@vebende.com"
-  - "tuncer.karaarslan@gmail.com"
-linkedin: "https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US"
-medium: "https://medium.com/@tuncerkaraarslan"
-training_catalog: "https://github.com/TuncerKARAARSLAN-VB/training-contents"
-location: "İzmir, Turkey"
-experience_years: 25
-skills:
-  backend: ["C#", ".NET", "Node.js", "Java"]
-  cloud_devops: ["Kubernetes", "Docker", "Azure", "CI/CD"]
-  data_ml: ["Python", "TensorFlow", "data pipelines"]
-  infra_integration: ["Kafka", "RabbitMQ", "SAP", "IBM Maximo"]
-  frontend_mobile: ["JavaScript", "Vue.js", "Objective-C", "Android (Java)"]
-projects:
-  - id: field-management-2000
-    name: Field Management System
-    role: Lead Architect
-    impact: "Revenue growth from $47M to $2B in one year"
-  - id: kubernetes-training-sbm
-    name: Kubernetes: From Zero to Mastery
-    role: Trainer
-  - id: kipu
-    name: KIPU Mobile Book Sharing
-    role: Architect
----
-
 ![linkedin-header](https://github.com/user-attachments/assets/7092576e-c145-45e1-baa6-3023ade1db07)
+
+<!-- JSON-LD machine-readable profile -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Tuncer KARAARSLAN",
+  "jobTitle": "Software Solution Architect",
+  "description": "Software architect and technology leader with 25+ years of experience in enterprise systems, cloud-native platforms, and AI-enabled decision support.",
+  "email": ["tuncer.karaarslan@vebende.com", "tuncer.karaarslan@gmail.com"],
+  "url": "https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US",
+  "sameAs": [
+    "https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US",
+    "https://medium.com/@tuncerkaraarslan",
+    "https://github.com/TuncerKARAARSLAN-VB/training-contents"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Vebende Yazılım Tekstil Üretim A.Ş."
+  },
+  "knowsAbout": ["Kubernetes",".NET","C#","AI","Machine Learning","DevOps","Kubernetes Training","ERP Integration","GIS","IBM Maximo"]
+}
+</script>
 
 Microsoft technologies specialist • .NET Authorized Partner • Architect, Trainer, Consultant
 
