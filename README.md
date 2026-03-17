@@ -1,28 +1,5 @@
 ![linkedin-header](https://github.com/user-attachments/assets/7092576e-c145-45e1-baa6-3023ade1db07)
 
-<!-- JSON-LD machine-readable profile -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Tuncer KARAARSLAN",
-  "jobTitle": "Software Solution Architect",
-  "description": "Software architect and technology leader with 25+ years of experience in enterprise systems, cloud-native platforms, and AI-enabled decision support.",
-  "email": ["tuncer.karaarslan@vebende.com", "tuncer.karaarslan@gmail.com"],
-  "url": "https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US",
-  "sameAs": [
-    "https://www.linkedin.com/in/tuncerkaraarslan/?locale=en_US",
-    "https://medium.com/@tuncerkaraarslan",
-    "https://github.com/TuncerKARAARSLAN-VB/training-contents"
-  ],
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Vebende Yazılım Tekstil Üretim A.Ş."
-  },
-  "knowsAbout": ["Kubernetes",".NET","C#","AI","Machine Learning","DevOps","Kubernetes Training","ERP Integration","GIS","IBM Maximo"]
-}
-</script>
-
 Microsoft technologies specialist • .NET Authorized Partner • Architect, Trainer, Consultant
 
 I am a software architect and technology leader with more than 25 years of experience delivering enterprise-grade systems, technical training programs, and digital transformation projects. My work combines pragmatic engineering, security-first design, and measurable business outcomes.
