@@ -696,8 +696,9 @@ Mobile book-sharing ecosystem:
 * Rapid-order workflows
 * Logistics process automation
 
-## Lider Elektrik
+## Luna Elektrik
 
+* Headend & Software Arge Team Leader
 * Asset-management digitalization
 * Operational process transformation
 * Enterprise software implementation
